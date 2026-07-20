@@ -1,0 +1,1191 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sex-Specific Causal Relations between Steroid Hormones and Obesity\u2014A Mendelian Randomization Study",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.52896725440806,
+          113.96616206589492
+        ],
+        [
+          541.2040302267002,
+          113.96616206589492
+        ],
+        [
+          541.2040302267002,
+          151.296875
+        ],
+        [
+          34.52896725440806,
+          151.296875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          165.88916876574308,
+          591.208984375
+        ],
+        [
+          235.6977329974811,
+          591.208984375
+        ],
+        [
+          235.6977329974811,
+          602.0712377560106
+        ],
+        [
+          165.88916876574308,
+          602.0712377560106
+        ]
+      ]
+    },
+    {
+      "title": "2. Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          165.87890625,
+          455.9462890625
+        ],
+        [
+          212.42821158690174,
+          455.9462890625
+        ],
+        [
+          212.42821158690174,
+          465.61175422974173
+        ],
+        [
+          165.87890625,
+          465.61175422974173
+        ]
+      ]
+    },
+    {
+      "title": "2.1. GWAMA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          165.88916876574308,
+          468.2802734375
+        ],
+        [
+          224.43828715365237,
+          468.2802734375
+        ],
+        [
+          224.43828715365237,
+          478.35796972395366
+        ],
+        [
+          165.88916876574308,
+          478.35796972395366
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Fine-Mapping of the HLA Region",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          165.87890625,
+          87.16015625
+        ],
+        [
+          322.02015113350126,
+          87.16015625
+        ],
+        [
+          322.02015113350126,
+          98.22083704363313
+        ],
+        [
+          165.87890625,
+          98.22083704363313
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Mendelian Randomization",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          165.587890625,
+          373.7197265625
+        ],
+        [
+          292.3952331542969,
+          373.7197265625
+        ],
+        [
+          292.3952331542969,
+          385.2042236328125
+        ],
+        [
+          165.587890625,
+          385.2042236328125
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1. Causal Influence of Steroid Hormones on Obesity-Related Traits",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          165.87890625,
+          462.11328125
+        ],
+        [
+          474.7207336425781,
+          462.11328125
+        ],
+        [
+          474.7207336425781,
+          473.5440979003906
+        ],
+        [
+          165.87890625,
+          473.5440979003906
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2. Test for Reversed Causality of Obesity-Related Traits on Steroid Hormones",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          165.296875,
+          338.7734375
+        ],
+        [
+          522.4382871536524,
+          338.7734375
+        ],
+        [
+          522.4382871536524,
+          349.3962600178094
+        ],
+        [
+          165.296875,
+          349.3962600178094
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3. Causal Effect of Steroid Hormones on CAD and Mediation via Obesity Traits",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          165.296875,
+          452.24609375
+        ],
+        [
+          532.1964735516373,
+          452.24609375
+        ],
+        [
+          532.1964735516373,
+          463.36242208370436
+        ],
+        [
+          165.296875,
+          463.36242208370436
+        ]
+      ]
+    },
+    {
+      "title": "3. Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          165.88916876574308,
+          374.5419921875
+        ],
+        [
+          228.19143576826195,
+          374.5419921875
+        ],
+        [
+          228.19143576826195,
+          383.13624220837045
+        ],
+        [
+          165.88916876574308,
+          383.13624220837045
+        ]
+      ]
+    },
+    {
+      "title": "4. Materials and Methods",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          167.04296875,
+          169.38671875
+        ],
+        [
+          283.5185852050781,
+          169.38671875
+        ],
+        [
+          283.5185852050781,
+          180.9117431640625
+        ],
+        [
+          167.04296875,
+          180.9117431640625
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Cohort Description",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          165.87890625,
+          182.54296875
+        ],
+        [
+          262.686767578125,
+          182.54296875
+        ],
+        [
+          262.686767578125,
+          194.28515625
+        ],
+        [
+          165.87890625,
+          194.28515625
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Measurement of Steroid Hormones, Obesity Traits, and CAD",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          166.4609375,
+          383.998046875
+        ],
+        [
+          431.15435791015625,
+          383.998046875
+        ],
+        [
+          431.15435791015625,
+          395.43121337890625
+        ],
+        [
+          166.4609375,
+          395.43121337890625
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Genotyping, Imputation, and HLA Subtype Estimation",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          166.4609375,
+          598.1982421875
+        ],
+        [
+          408.2602844238281,
+          598.1982421875
+        ],
+        [
+          408.2602844238281,
+          609.1312103271484
+        ],
+        [
+          166.4609375,
+          609.1312103271484
+        ]
+      ]
+    },
+    {
+      "title": "4.4. Statistical Analysis",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          165.88916876574308,
+          257.369140625
+        ],
+        [
+          264.22166246851384,
+          257.369140625
+        ],
+        [
+          264.22166246851384,
+          267.6705253784506
+        ],
+        [
+          165.88916876574308,
+          267.6705253784506
+        ]
+      ]
+    },
+    {
+      "title": "4.4.1. GWAMA",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          165.587890625,
+          270.525390625
+        ],
+        [
+          234.19647355163727,
+          270.525390625
+        ],
+        [
+          234.19647355163727,
+          281.16651825467494
+        ],
+        [
+          165.587890625,
+          281.16651825467494
+        ]
+      ]
+    },
+    {
+      "title": "4.4.2. HLA Association",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          165.87890625,
+          608.8876953125
+        ],
+        [
+          269.4760705289672,
+          608.8876953125
+        ],
+        [
+          269.4760705289672,
+          619.3161175422974
+        ],
+        [
+          165.87890625,
+          619.3161175422974
+        ]
+      ]
+    },
+    {
+      "title": "4.4.3. Genetic Sex Interaction",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          166.4609375,
+          131.9736328125
+        ],
+        [
+          294.5078125,
+          131.9736328125
+        ],
+        [
+          294.5078125,
+          143.3470458984375
+        ],
+        [
+          166.4609375,
+          143.3470458984375
+        ]
+      ]
+    },
+    {
+      "title": "4.4.4. Mendelian Randomization (MR)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          166.169921875,
+          244.212890625
+        ],
+        [
+          335.9018859863281,
+          244.212890625
+        ],
+        [
+          335.9018859863281,
+          256.62213134765625
+        ],
+        [
+          166.169921875,
+          256.62213134765625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          35.212890625,
+          97.4384765625
+        ],
+        [
+          85.849609375,
+          97.4384765625
+        ],
+        [
+          85.849609375,
+          108.28369140625
+        ],
+        [
+          35.212890625,
+          108.28369140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          144
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          416
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          143
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          382
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Reference",
+          23
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          398
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Reference",
+          24
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/pott2021"
+}

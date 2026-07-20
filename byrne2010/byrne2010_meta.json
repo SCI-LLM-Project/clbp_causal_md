@@ -1,0 +1,619 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Anxiety and depression in the elderly: do we know any more?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.005859375,
+          56.51171875
+        ],
+        [
+          526.2758620689655,
+          56.51171875
+        ],
+        [
+          526.2758620689655,
+          76.3671875
+        ],
+        [
+          47.005859375,
+          76.3671875
+        ]
+      ]
+    },
+    {
+      "title": "Purpose of review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.4074074074074,
+          104.96644295302013
+        ],
+        [
+          293.87484035759894,
+          104.96644295302013
+        ],
+        [
+          293.87484035759894,
+          114.55078125
+        ],
+        [
+          217.4074074074074,
+          114.55078125
+        ]
+      ]
+    },
+    {
+      "title": "Recent findings",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.83203125,
+          152.2013422818792
+        ],
+        [
+          284.12899106002556,
+          152.2013422818792
+        ],
+        [
+          284.12899106002556,
+          161.8984375
+        ],
+        [
+          217.83203125,
+          161.8984375
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.54541015625,
+          272.9127516778523
+        ],
+        [
+          258.639846743295,
+          272.9127516778523
+        ],
+        [
+          258.639846743295,
+          281.4130859375
+        ],
+        [
+          217.54541015625,
+          281.4130859375
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.685546875,
+          368.1323106423778
+        ],
+        [
+          262.3882503192848,
+          368.1323106423778
+        ],
+        [
+          262.3882503192848,
+          378.017578125
+        ],
+        [
+          216.685546875,
+          378.017578125
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.86572265625,
+          470.0400390625
+        ],
+        [
+          113.95146871008939,
+          470.0400390625
+        ],
+        [
+          113.95146871008939,
+          479.09683604985617
+        ],
+        [
+          47.86572265625,
+          479.09683604985617
+        ]
+      ]
+    },
+    {
+      "title": "Prevalence and risk factors",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.97956577266922,
+          689.595703125
+        ],
+        [
+          194.16730523627075,
+          689.595703125
+        ],
+        [
+          194.16730523627075,
+          698.7766059443911
+        ],
+        [
+          47.97956577266922,
+          698.7766059443911
+        ]
+      ]
+    },
+    {
+      "title": "Assessment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          297.62324393358875,
+          510.1328125
+        ],
+        [
+          364.34482758620686,
+          510.1328125
+        ],
+        [
+          364.34482758620686,
+          519.5838926174497
+        ],
+        [
+          297.62324393358875,
+          519.5838926174497
+        ]
+      ]
+    },
+    {
+      "title": "Neuropsychology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.86572265625,
+          439.111328125
+        ],
+        [
+          140.93997445721584,
+          439.111328125
+        ],
+        [
+          140.93997445721584,
+          448.35666347075744
+        ],
+        [
+          47.86572265625,
+          448.35666347075744
+        ]
+      ]
+    },
+    {
+      "title": "Neuroimaging",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.3703703703704,
+          61.09375
+        ],
+        [
+          380.088122605364,
+          61.09375
+        ],
+        [
+          380.088122605364,
+          71.78515625
+        ],
+        [
+          304.3703703703704,
+          71.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Nonpharmacological treatment",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.67822265625,
+          399.7822265625
+        ],
+        [
+          471.5491698595147,
+          399.7822265625
+        ],
+        [
+          471.5491698595147,
+          410.1188878235858
+        ],
+        [
+          304.67822265625,
+          410.1188878235858
+        ]
+      ]
+    },
+    {
+      "title": "Pharmacological treatment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.48275862068965,
+          127.533203125
+        ],
+        [
+          186.67049808429118,
+          127.533203125
+        ],
+        [
+          186.67049808429118,
+          138.70565675934805
+        ],
+        [
+          40.48275862068965,
+          138.70565675934805
+        ]
+      ]
+    },
+    {
+      "title": "The future",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          296.8735632183908,
+          449.802734375
+        ],
+        [
+          354.5989782886334,
+          449.802734375
+        ],
+        [
+          354.5989782886334,
+          459.60306807286673
+        ],
+        [
+          296.8735632183908,
+          459.60306807286673
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.97956577266922,
+          126.005859375
+        ],
+        [
+          107.95402298850574,
+          126.005859375
+        ],
+        [
+          107.95402298850574,
+          135.7066155321189
+        ],
+        [
+          47.97956577266922,
+          135.7066155321189
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.005859375,
+          219.5556640625
+        ],
+        [
+          152.93486590038313,
+          219.5556640625
+        ],
+        [
+          152.93486590038313,
+          229.4833984375
+        ],
+        [
+          47.005859375,
+          229.4833984375
+        ]
+      ]
+    },
+    {
+      "title": "References and recommended reading",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.97956577266922,
+          291.3408203125
+        ],
+        [
+          253.39208173690932,
+          291.3408203125
+        ],
+        [
+          253.39208173690932,
+          301.4036433365292
+        ],
+        [
+          47.97956577266922,
+          301.4036433365292
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          104
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Span",
+          106
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          136
+        ],
+        [
+          "Span",
+          136
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "ListGroup",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/byrne2010"
+}

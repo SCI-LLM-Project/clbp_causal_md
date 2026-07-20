@@ -1,0 +1,919 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Dose-dependent Association of Alcohol Consumption With Obesity and Type 2 Diabetes: Mendelian Randomization Analyses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.3154296875,
+          114.0
+        ],
+        [
+          546.0,
+          112.5
+        ],
+        [
+          546.0,
+          174.33984375
+        ],
+        [
+          40.3154296875,
+          174.33984375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          367.7958984375
+        ],
+        [
+          84.0,
+          367.7958984375
+        ],
+        [
+          84.0,
+          375.75
+        ],
+        [
+          40.5,
+          375.75
+        ]
+      ]
+    },
+    {
+      "title": "Materials and Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.4365234375,
+          649.951171875
+        ],
+        [
+          170.0893096923828,
+          649.951171875
+        ],
+        [
+          170.0893096923828,
+          663.0690231323242
+        ],
+        [
+          48.4365234375,
+          663.0690231323242
+        ]
+      ]
+    },
+    {
+      "title": "Study Cohort",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.146484375,
+          666.0087890625
+        ],
+        [
+          111.955078125,
+          666.0087890625
+        ],
+        [
+          111.955078125,
+          677.7600021362305
+        ],
+        [
+          48.146484375,
+          677.7600021362305
+        ]
+      ]
+    },
+    {
+      "title": "Quantification of Alcohol Consumption",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.181640625,
+          440.4375
+        ],
+        [
+          494.0079650878906,
+          440.4375
+        ],
+        [
+          494.0079650878906,
+          452.23602294921875
+        ],
+        [
+          309.181640625,
+          452.23602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Observational Associations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.181640625,
+          644.98095703125
+        ],
+        [
+          438.42498779296875,
+          644.98095703125
+        ],
+        [
+          438.42498779296875,
+          655.7630081176758
+        ],
+        [
+          309.181640625,
+          655.7630081176758
+        ]
+      ]
+    },
+    {
+      "title": "Mendelian Randomization",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          222.5126953125
+        ],
+        [
+          167.25,
+          222.5126953125
+        ],
+        [
+          167.25,
+          231.0
+        ],
+        [
+          40.5,
+          231.0
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          300.48046875,
+          539.0771484375
+        ],
+        [
+          342.0,
+          539.0771484375
+        ],
+        [
+          342.0,
+          549.75
+        ],
+        [
+          300.48046875,
+          549.75
+        ]
+      ]
+    },
+    {
+      "title": "Cohort Characteristics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.25,
+          555.134765625
+        ],
+        [
+          407.794921875,
+          555.134765625
+        ],
+        [
+          407.794921875,
+          564.75
+        ],
+        [
+          302.25,
+          564.75
+        ]
+      ]
+    },
+    {
+      "title": "Observational Associations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.986328125,
+          547.10595703125
+        ],
+        [
+          178.5,
+          547.10595703125
+        ],
+        [
+          178.5,
+          556.5
+        ],
+        [
+          46.986328125,
+          556.5
+        ]
+      ]
+    },
+    {
+      "title": "Validity of Genetic Instrument Employed in \nMendelian Randomization",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.3154296875,
+          634.27587890625
+        ],
+        [
+          248.2473907470703,
+          634.27587890625
+        ],
+        [
+          248.2473907470703,
+          658.2569961547852
+        ],
+        [
+          40.3154296875,
+          658.2569961547852
+        ]
+      ]
+    },
+    {
+      "title": "Mendelian Randomization-estimated Associations\nBetween Alcohol Intake Frequency and\nAnthropometric Measurements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.25,
+          117.37353515625
+        ],
+        [
+          286.5,
+          117.37353515625
+        ],
+        [
+          286.5,
+          149.25
+        ],
+        [
+          47.25,
+          149.25
+        ]
+      ]
+    },
+    {
+      "title": "Mendelian Randomization-estimated Association of\nAlcohol Intake Frequency With Obesity and Type 2\nDiabetes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.5,
+          356.70849609375
+        ],
+        [
+          285.0,
+          356.70849609375
+        ],
+        [
+          285.0,
+          387.0
+        ],
+        [
+          40.5,
+          387.0
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity Analyses",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.5,
+          710.3583984375
+        ],
+        [
+          138.0,
+          710.3583984375
+        ],
+        [
+          138.0,
+          720.75
+        ],
+        [
+          40.5,
+          720.75
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          301.5,
+          388.82373046875
+        ],
+        [
+          359.25,
+          388.82373046875
+        ],
+        [
+          359.25,
+          397.5
+        ],
+        [
+          301.5,
+          397.5
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          308.6015625,
+          477.9052734375
+        ],
+        [
+          352.266357421875,
+          477.9052734375
+        ],
+        [
+          352.266357421875,
+          489.4190368652344
+        ],
+        [
+          308.6015625,
+          489.4190368652344
+        ]
+      ]
+    },
+    {
+      "title": "Author Contributions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.8955078125,
+          121.96142578125
+        ],
+        [
+          153.86720275878906,
+          121.96142578125
+        ],
+        [
+          153.86720275878906,
+          134.29400634765625
+        ],
+        [
+          40.8955078125,
+          134.29400634765625
+        ]
+      ]
+    },
+    {
+      "title": "Disclosures",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.60546875,
+          261.89208984375
+        ],
+        [
+          101.90494537353516,
+          261.89208984375
+        ],
+        [
+          101.90494537353516,
+          274.5530700683594
+        ],
+        [
+          40.60546875,
+          274.5530700683594
+        ]
+      ]
+    },
+    {
+      "title": "Data Availability",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.185546875,
+          380.41259765625
+        ],
+        [
+          128.2017822265625,
+          380.41259765625
+        ],
+        [
+          128.2017822265625,
+          392.81402587890625
+        ],
+        [
+          41.185546875,
+          392.81402587890625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.4755859375,
+          509.255859375
+        ],
+        [
+          99.47393035888672,
+          509.255859375
+        ],
+        [
+          99.47393035888672,
+          522.0740356445312
+        ],
+        [
+          41.4755859375,
+          522.0740356445312
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Footnote",
+          9
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          132
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          224
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          132
+        ],
+        [
+          "Span",
+          107
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/lu2023"
+}

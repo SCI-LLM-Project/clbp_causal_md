@@ -1,0 +1,902 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Journal of Psychiatric Research",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.509765625,
+          84.9052734375
+        ],
+        [
+          400.8771057128906,
+          84.9052734375
+        ],
+        [
+          400.8771057128906,
+          100.76190185546875
+        ],
+        [
+          200.509765625,
+          100.76190185546875
+        ]
+      ]
+    },
+    {
+      "title": "Insomnia, sleep duration, and risk of anxiety: A two-sample Mendelian \nrandomization study",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.58740234375,
+          165.93359375
+        ],
+        [
+          468.43670654296875,
+          165.93359375
+        ],
+        [
+          468.43670654296875,
+          198.19647216796875
+        ],
+        [
+          37.58740234375,
+          198.19647216796875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.958984375,
+          269.8359375
+        ],
+        [
+          120.90568542480469,
+          269.8359375
+        ],
+        [
+          120.90568542480469,
+          279.4564208984375
+        ],
+        [
+          36.958984375,
+          279.4564208984375
+        ]
+      ]
+    },
+    {
+      "title": "Keywords: \nMendelian randomization \nSingle nucleotide polymorphism \nCausal association \nInsomnia \nSleep duration \nAnxiety",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.958984375,
+          289.99609375
+        ],
+        [
+          131.2774200439453,
+          289.99609375
+        ],
+        [
+          131.2774200439453,
+          349.1976623535156
+        ],
+        [
+          36.958984375,
+          349.1976623535156
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.673828125,
+          271.38671875
+        ],
+        [
+          263.930419921875,
+          271.38671875
+        ],
+        [
+          263.930419921875,
+          279.4564208984375
+        ],
+        [
+          201.673828125,
+          279.4564208984375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.66796875,
+          481.12988281249994
+        ],
+        [
+          100.17181396484375,
+          481.12988281249994
+        ],
+        [
+          100.17181396484375,
+          491.92596435546875
+        ],
+        [
+          36.66796875,
+          491.92596435546875
+        ]
+      ]
+    },
+    {
+      "title": "2. Material and methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.03022670025189,
+          450.88964843749994
+        ],
+        [
+          134.36272040302265,
+          450.88964843749994
+        ],
+        [
+          134.36272040302265,
+          460.3550519357884
+        ],
+        [
+          36.03022670025189,
+          460.3550519357884
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Study design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.03022670025189,
+          471.6015108593012
+        ],
+        [
+          99.08312342569269,
+          472.60058593749994
+        ],
+        [
+          99.08312342569269,
+          481.3484419263456
+        ],
+        [
+          36.03022670025189,
+          481.12988281249994
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Data sources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.794921875,
+          544.7119140625
+        ],
+        [
+          99.08312342569269,
+          544.7119140625
+        ],
+        [
+          99.08312342569269,
+          554.0755429650613
+        ],
+        [
+          35.794921875,
+          554.0755429650613
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Selection of instrumental variables",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.7556675062972,
+          242.17374881964116
+        ],
+        [
+          441.3702770780856,
+          242.17374881964116
+        ],
+        [
+          441.3702770780856,
+          251.17091595845136
+        ],
+        [
+          304.7556675062972,
+          251.17091595845136
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Statistical analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.7556675062972,
+          461.8545797922568
+        ],
+        [
+          388.0755667506297,
+          461.8545797922568
+        ],
+        [
+          388.0755667506297,
+          471.43749999999994
+        ],
+        [
+          304.7556675062972,
+          471.43749999999994
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          37.25,
+          583.4814453125
+        ],
+        [
+          79.67379760742188,
+          583.4814453125
+        ],
+        [
+          79.67379760742188,
+          593.8019714355469
+        ],
+        [
+          37.25,
+          593.8019714355469
+        ]
+      ]
+    },
+    {
+      "title": "3.1. The causal association of insomnia with anxiety",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          37.25,
+          605.1923828125
+        ],
+        [
+          219.549072265625,
+          605.1923828125
+        ],
+        [
+          219.549072265625,
+          614.7210998535156
+        ],
+        [
+          37.25,
+          614.7210998535156
+        ]
+      ]
+    },
+    {
+      "title": "3.2. The causal association of short sleep and long sleep with anxiety",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.857421875,
+          650.9404296875
+        ],
+        [
+          543.9425659179688,
+          650.9404296875
+        ],
+        [
+          543.9425659179688,
+          660.1881256103516
+        ],
+        [
+          305.857421875,
+          660.1881256103516
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Sensitivity analyses",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.958984375,
+          417.5478515625
+        ],
+        [
+          122.4195556640625,
+          417.5478515625
+        ],
+        [
+          122.4195556640625,
+          427.691162109375
+        ],
+        [
+          36.958984375,
+          427.691162109375
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.66796875,
+          586.5830078125
+        ],
+        [
+          92.4647216796875,
+          586.5830078125
+        ],
+        [
+          92.4647216796875,
+          596.9179077148438
+        ],
+        [
+          36.66796875,
+          596.9179077148438
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.958984375,
+          221.76171874999997
+        ],
+        [
+          168.5120391845703,
+          221.76171874999997
+        ],
+        [
+          168.5120391845703,
+          231.194091796875
+        ],
+        [
+          36.958984375,
+          231.194091796875
+        ]
+      ]
+    },
+    {
+      "title": "Author's contribution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.0859375,
+          264.408203125
+        ],
+        [
+          123.00993347167969,
+          264.408203125
+        ],
+        [
+          123.00993347167969,
+          273.543212890625
+        ],
+        [
+          36.0859375,
+          273.543212890625
+        ]
+      ]
+    },
+    {
+      "title": "Data availability statement",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.66796875,
+          348.150390625
+        ],
+        [
+          143.69631958007812,
+          348.150390625
+        ],
+        [
+          143.69631958007812,
+          357.78790283203125
+        ],
+        [
+          36.66796875,
+          357.78790283203125
+        ]
+      ]
+    },
+    {
+      "title": "Ethics approval",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.66796875,
+          421.4248046875
+        ],
+        [
+          99.25503540039062,
+          421.4248046875
+        ],
+        [
+          99.25503540039062,
+          431.4882507324219
+        ],
+        [
+          36.66796875,
+          431.4882507324219
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.66796875,
+          484.61914062499994
+        ],
+        [
+          109.55160522460938,
+          484.61914062499994
+        ],
+        [
+          109.55160522460938,
+          494.81390380859375
+        ],
+        [
+          36.66796875,
+          494.81390380859375
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.376953125,
+          526.490234375
+        ],
+        [
+          168.54949951171875,
+          526.490234375
+        ],
+        [
+          168.54949951171875,
+          537.1629943847656
+        ],
+        [
+          36.376953125,
+          537.1629943847656
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.794921875,
+          579.6044921875
+        ],
+        [
+          81.13819885253906,
+          579.6044921875
+        ],
+        [
+          81.13819885253906,
+          590.0
+        ],
+        [
+          35.794921875,
+          590.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          139
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/zhou2022"
+}

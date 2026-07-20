@@ -1,0 +1,805 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.68359375,
+          58.15429687499999
+        ],
+        [
+          94.87109375,
+          58.15429687499999
+        ],
+        [
+          94.87109375,
+          126.38867187499999
+        ],
+        [
+          29.68359375,
+          126.38867187499999
+        ]
+      ]
+    },
+    {
+      "title": "Maturitas",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          263.0262985229492,
+          85.6806640625
+        ],
+        [
+          327.8440475463867,
+          85.6806640625
+        ],
+        [
+          327.8440475463867,
+          101.107421875
+        ],
+        [
+          263.0262985229492,
+          101.107421875
+        ]
+      ]
+    },
+    {
+      "title": "Review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.138671875,
+          146.9365234375
+        ],
+        [
+          65.478515625,
+          146.9365234375
+        ],
+        [
+          65.478515625,
+          157.539794921875
+        ],
+        [
+          31.138671875,
+          157.539794921875
+        ]
+      ]
+    },
+    {
+      "title": "Prevention of depression in older age",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          165.5458984375
+        ],
+        [
+          270.8331527709961,
+          165.5458984375
+        ],
+        [
+          270.8331527709961,
+          180.28546142578125
+        ],
+        [
+          30.84765625,
+          180.28546142578125
+        ]
+      ]
+    },
+    {
+      "title": "a r t i c l e i n f o",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          257.4296875
+        ],
+        [
+          127.46484375,
+          257.4296875
+        ],
+        [
+          127.46484375,
+          267.00115966796875
+        ],
+        [
+          30.84765625,
+          267.00115966796875
+        ]
+      ]
+    },
+    {
+      "title": "Article history:\nReceived 3 March 2014\nReceived in revised form 11 March 2014\nAccepted 13 March 2014",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.556640625,
+          277.9775390625
+        ],
+        [
+          154.70708465576172,
+          277.9775390625
+        ],
+        [
+          154.70708465576172,
+          311.2574462890625
+        ],
+        [
+          30.556640625,
+          311.2574462890625
+        ]
+      ]
+    },
+    {
+      "title": "a b s t r a c t",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          198.47265625,
+          256.654296875
+        ],
+        [
+          265.8432846069336,
+          256.654296875
+        ],
+        [
+          265.8432846069336,
+          267.00115966796875
+        ],
+        [
+          198.47265625,
+          267.00115966796875
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.974609375,
+          457.86816406249994
+        ],
+        [
+          64.07173919677734,
+          457.86816406249994
+        ],
+        [
+          64.07173919677734,
+          467.71527099609375
+        ],
+        [
+          29.974609375,
+          467.71527099609375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          301.4113082885742,
+          638.146484375
+        ],
+        [
+          365.224609375,
+          638.146484375
+        ],
+        [
+          365.224609375,
+          647.451171875
+        ],
+        [
+          301.4113082885742,
+          647.451171875
+        ]
+      ]
+    },
+    {
+      "title": "2. Risk factors for depression in later life",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.197265625,
+          122.89941406249999
+        ],
+        [
+          207.4263687133789,
+          122.89941406249999
+        ],
+        [
+          207.4263687133789,
+          132.3826904296875
+        ],
+        [
+          42.197265625,
+          132.3826904296875
+        ]
+      ]
+    },
+    {
+      "title": "3. Interventions to prevent depression in later life",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.48828125,
+          641.248046875
+        ],
+        [
+          244.5649642944336,
+          641.248046875
+        ],
+        [
+          244.5649642944336,
+          650.552734375
+        ],
+        [
+          42.48828125,
+          650.552734375
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Primary prevention of depression",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.90625,
+          661.408203125
+        ],
+        [
+          181.35865020751953,
+          661.408203125
+        ],
+        [
+          181.35865020751953,
+          671.1126861572266
+        ],
+        [
+          41.90625,
+          671.1126861572266
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Secondary prevention of depression",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          301.201171875,
+          672.6513671875
+        ],
+        [
+          448.32689666748047,
+          672.6513671875
+        ],
+        [
+          448.32689666748047,
+          681.5736694335938
+        ],
+        [
+          301.201171875,
+          681.5736694335938
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Tertiary prevention of depression",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.32421875,
+          556.73046875
+        ],
+        [
+          180.92826080322266,
+          556.73046875
+        ],
+        [
+          180.92826080322266,
+          566.5047302246094
+        ],
+        [
+          41.32421875,
+          566.5047302246094
+        ]
+      ]
+    },
+    {
+      "title": "3.4. Other approaches to reduce the prevalence of depression in\nthe community",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.2212142944336,
+          567.9736328125
+        ],
+        [
+          544.2596054077148,
+          567.9736328125
+        ],
+        [
+          544.2596054077148,
+          587.4264831542969
+        ],
+        [
+          312.2212142944336,
+          587.4264831542969
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclusions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.265625,
+          228.35253906249997
+        ],
+        [
+          92.15953826904297,
+          228.35253906249997
+        ],
+        [
+          92.15953826904297,
+          237.6986083984375
+        ],
+        [
+          30.265625,
+          237.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "Contributors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.556640625,
+          525.3271484375
+        ],
+        [
+          83.35295104980469,
+          525.3271484375
+        ],
+        [
+          83.35295104980469,
+          536.5388488769531
+        ],
+        [
+          30.556640625,
+          536.5388488769531
+        ]
+      ]
+    },
+    {
+      "title": "Competing interest",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          29.974609375,
+          585.0322265625
+        ],
+        [
+          109.07015228271484,
+          585.0322265625
+        ],
+        [
+          109.07015228271484,
+          594.7812805175781
+        ],
+        [
+          29.974609375,
+          594.7812805175781
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.84765625,
+          633.8818359375
+        ],
+        [
+          65.20503234863281,
+          633.8818359375
+        ],
+        [
+          65.20503234863281,
+          642.5628814697266
+        ],
+        [
+          30.84765625,
+          642.5628814697266
+        ]
+      ]
+    },
+    {
+      "title": "Role of the sponsors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.556640625,
+          690.09765625
+        ],
+        [
+          112.83220672607422,
+          690.09765625
+        ],
+        [
+          112.83220672607422,
+          700.8053588867188
+        ],
+        [
+          30.556640625,
+          700.8053588867188
+        ]
+      ]
+    },
+    {
+      "title": "Provenance and peer review",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          299.74609375,
+          54.66503906249999
+        ],
+        [
+          414.98828125,
+          54.66503906249999
+        ],
+        [
+          414.98828125,
+          64.38775634765625
+        ],
+        [
+          299.74609375,
+          64.38775634765625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          301.4116439819336,
+          101.1884765625
+        ],
+        [
+          345.0638656616211,
+          101.1884765625
+        ],
+        [
+          345.0638656616211,
+          110.95635986328125
+        ],
+        [
+          301.4116439819336,
+          110.95635986328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          4267
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          2263
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1951
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1176
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          2405
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1204
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/almeida"
+}

@@ -1,0 +1,979 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESEARCH ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.54659949622166,
+          92.22096317280453
+        ],
+        [
+          195.91435768261965,
+          92.22096317280453
+        ],
+        [
+          195.91435768261965,
+          104.21718602455145
+        ],
+        [
+          55.54659949622166,
+          104.21718602455145
+        ]
+      ]
+    },
+    {
+      "title": "Excess risk of chronic physical conditions associated with depression and anxiety",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.795969773299745,
+          122.21152030217185
+        ],
+        [
+          451.87909319899245,
+          122.21152030217185
+        ],
+        [
+          451.87909319899245,
+          171.361328125
+        ],
+        [
+          54.795969773299745,
+          171.361328125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.6953125,
+          220.21093749999997
+        ],
+        [
+          102.83627204030226,
+          220.21093749999997
+        ],
+        [
+          102.83627204030226,
+          229.42776203966005
+        ],
+        [
+          61.6953125,
+          229.42776203966005
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.54659949622166,
+          536.081208687441
+        ],
+        [
+          113.34508816120906,
+          536.081208687441
+        ],
+        [
+          113.34508816120906,
+          545.8281397544853
+        ],
+        [
+          55.54659949622166,
+          545.8281397544853
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.693359375,
+          231.84179687499997
+        ],
+        [
+          344.9149169921875,
+          231.84179687499997
+        ],
+        [
+          344.9149169921875,
+          243.41412353515625
+        ],
+        [
+          304.693359375,
+          243.41412353515625
+        ]
+      ]
+    },
+    {
+      "title": "Study design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.529296875,
+          244.63574218749997
+        ],
+        [
+          356.99652099609375,
+          244.63574218749997
+        ],
+        [
+          356.99652099609375,
+          255.1263427734375
+        ],
+        [
+          303.529296875,
+          255.1263427734375
+        ]
+      ]
+    },
+    {
+      "title": "Data source and setting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.40234375,
+          316.7470703125
+        ],
+        [
+          400.545166015625,
+          316.7470703125
+        ],
+        [
+          400.545166015625,
+          327.1263427734375
+        ],
+        [
+          304.40234375,
+          327.1263427734375
+        ]
+      ]
+    },
+    {
+      "title": "Analytic sample",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.111328125,
+          557.8935546875
+        ],
+        [
+          368.1856689453125,
+          557.8935546875
+        ],
+        [
+          368.1856689453125,
+          567.1641235351562
+        ],
+        [
+          304.111328125,
+          567.1641235351562
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.583984375,
+          89.5576171875
+        ],
+        [
+          94.40870666503906,
+          89.5576171875
+        ],
+        [
+          94.40870666503906,
+          99.16424560546875
+        ],
+        [
+          55.583984375,
+          99.16424560546875
+        ]
+      ]
+    },
+    {
+      "title": "Dependent variables: presence/absence of chronic\nphysical conditions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.166015625,
+          99.83612060546875
+        ],
+        [
+          250.2225799560547,
+          99.83612060546875
+        ],
+        [
+          250.2225799560547,
+          121.34863281249999
+        ],
+        [
+          56.166015625,
+          121.34863281249999
+        ]
+      ]
+    },
+    {
+      "title": "Key independent variable: depression-anxiety status",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.111328125,
+          231.8741455078125
+        ],
+        [
+          505.964599609375,
+          231.8741455078125
+        ],
+        [
+          505.964599609375,
+          241.53417968749997
+        ],
+        [
+          304.111328125,
+          241.53417968749997
+        ]
+      ]
+    },
+    {
+      "title": "Other independent variables",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.23828125,
+          387.8362121582031
+        ],
+        [
+          414.77313232421875,
+          387.8362121582031
+        ],
+        [
+          414.77313232421875,
+          397.3876953125
+        ],
+        [
+          303.23828125,
+          397.3876953125
+        ]
+      ]
+    },
+    {
+      "title": "Statistical techniques",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.111328125,
+          593.9639282226562
+        ],
+        [
+          389.4388122558594,
+          593.9639282226562
+        ],
+        [
+          389.4388122558594,
+          603.1640319824219
+        ],
+        [
+          304.111328125,
+          603.1640319824219
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.875,
+          339.62109375
+        ],
+        [
+          89.27180480957031,
+          339.62109375
+        ],
+        [
+          89.27180480957031,
+          351.4140319824219
+        ],
+        [
+          55.875,
+          351.4140319824219
+        ]
+      ]
+    },
+    {
+      "title": "Secondary analyses",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.693359375,
+          413.6708984375
+        ],
+        [
+          382.8055419921875,
+          413.6708984375
+        ],
+        [
+          382.8055419921875,
+          423.1641540527344
+        ],
+        [
+          304.693359375,
+          423.1641540527344
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          303.8203125,
+          411.3447265625
+        ],
+        [
+          353.0787048339844,
+          411.3447265625
+        ],
+        [
+          353.0787048339844,
+          423.4140319824219
+        ],
+        [
+          303.8203125,
+          423.4140319824219
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.54659949622166,
+          208.580078125
+        ],
+        [
+          112.59445843828715,
+          208.580078125
+        ],
+        [
+          112.59445843828715,
+          218.1813031161473
+        ],
+        [
+          55.54659949622166,
+          218.1813031161473
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.54659949622166,
+          409.0185546875
+        ],
+        [
+          124.60453400503778,
+          409.0185546875
+        ],
+        [
+          124.60453400503778,
+          417.5478515625
+        ],
+        [
+          55.54659949622166,
+          417.5478515625
+        ]
+      ]
+    },
+    {
+      "title": "Authors' contributions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.54659949622166,
+          634.6572265625
+        ],
+        [
+          130.6095717884131,
+          634.6572265625
+        ],
+        [
+          130.6095717884131,
+          643.2974504249291
+        ],
+        [
+          55.54659949622166,
+          643.2974504249291
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.54659949622166,
+          708.3193359375
+        ],
+        [
+          118.59949622166246,
+          708.3193359375
+        ],
+        [
+          118.59949622166246,
+          716.8486328125
+        ],
+        [
+          55.54659949622166,
+          716.8486328125
+        ]
+      ]
+    },
+    {
+      "title": "Author details",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.8203125,
+          125.96033994334277
+        ],
+        [
+          352.04534005037783,
+          125.96033994334277
+        ],
+        [
+          352.04534005037783,
+          132.7082152974504
+        ],
+        [
+          303.8203125,
+          132.7082152974504
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.0050377833753,
+          226.02636718749997
+        ],
+        [
+          341.536523929471,
+          226.02636718749997
+        ],
+        [
+          341.536523929471,
+          233.92634560906515
+        ],
+        [
+          304.0050377833753,
+          233.92634560906515
+        ]
+      ]
+    },
+    {
+      "title": "doi:10.1186/1471-244X-14-10",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.94921875,
+          191.72412109375
+        ],
+        [
+          151.41249084472656,
+          191.72412109375
+        ],
+        [
+          151.41249084472656,
+          199.02423095703125
+        ],
+        [
+          59.94921875,
+          199.02423095703125
+        ]
+      ]
+    },
+    {
+      "title": "Submit your next manuscript to BioMed Central\nand take full advantage of:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          322.4453125,
+          607.130859375
+        ],
+        [
+          522.9494018554688,
+          607.130859375
+        ],
+        [
+          522.9494018554688,
+          628.1295471191406
+        ],
+        [
+          322.4453125,
+          628.1295471191406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          406
+        ],
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "TableCell",
+          183
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          195
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          755
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "ListItem",
+          50
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bhattacharya"
+}

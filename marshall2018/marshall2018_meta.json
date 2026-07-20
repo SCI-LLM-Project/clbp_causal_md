@@ -1,0 +1,835 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Pain and Hardship Among Older Men:\nExamining the Buffering Effect of\nMedicare Insurance Coverage",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.5,
+          68.818359375
+        ],
+        [
+          384.75,
+          68.818359375
+        ],
+        [
+          384.75,
+          128.4609375
+        ],
+        [
+          61.5,
+          128.4609375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.5,
+          227.865234375
+        ],
+        [
+          105.75,
+          227.865234375
+        ],
+        [
+          105.75,
+          235.51171875
+        ],
+        [
+          61.5,
+          235.51171875
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.5,
+          473.69970703125
+        ],
+        [
+          109.5,
+          473.69970703125
+        ],
+        [
+          109.5,
+          482.25
+        ],
+        [
+          61.5,
+          482.25
+        ]
+      ]
+    },
+    {
+      "title": "Corresponding Author:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.49658203125,
+          661.80322265625
+        ],
+        [
+          396.75,
+          661.80322265625
+        ],
+        [
+          396.75,
+          671.25
+        ],
+        [
+          306.49658203125,
+          671.25
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          292.5,
+          652.4744262695312
+        ],
+        [
+          342.3599853515625,
+          652.4744262695312
+        ],
+        [
+          342.3599853515625,
+          664.4744338989258
+        ],
+        [
+          292.5,
+          664.4744338989258
+        ]
+      ]
+    },
+    {
+      "title": "Data Source and Procedures",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          292.5,
+          672.50830078125
+        ],
+        [
+          422.4239501953125,
+          672.50830078125
+        ],
+        [
+          422.4239501953125,
+          684.5223388671875
+        ],
+        [
+          292.5,
+          684.5223388671875
+        ]
+      ]
+    },
+    {
+      "title": "Sample",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          61.98486328125,
+          251.5693359375
+        ],
+        [
+          96.39599609375,
+          251.5693359375
+        ],
+        [
+          96.39599609375,
+          264.518310546875
+        ],
+        [
+          61.98486328125,
+          264.518310546875
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          61.41357421875,
+          467.96484375
+        ],
+        [
+          106.7760009765625,
+          467.96484375
+        ],
+        [
+          106.7760009765625,
+          480.5183410644531
+        ],
+        [
+          61.41357421875,
+          480.5183410644531
+        ]
+      ]
+    },
+    {
+      "title": "Statistical Analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          307.63916015625,
+          516.5183410644531
+        ],
+        [
+          389.8560791015625,
+          516.5183410644531
+        ],
+        [
+          389.8560791015625,
+          528.5183410644531
+        ],
+        [
+          307.63916015625,
+          528.5183410644531
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.4169921875,
+          511.5498046875
+        ],
+        [
+          88.11599731445312,
+          511.5498046875
+        ],
+        [
+          88.11599731445312,
+          523.79443359375
+        ],
+        [
+          47.4169921875,
+          523.79443359375
+        ]
+      ]
+    },
+    {
+      "title": "Differences in Levels of Pain Among Men",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.13134765625,
+          531.8423461914062
+        ],
+        [
+          232.4879913330078,
+          531.8423461914062
+        ],
+        [
+          232.4879913330078,
+          543.8423461914062
+        ],
+        [
+          47.13134765625,
+          543.8423461914062
+        ]
+      ]
+    },
+    {
+      "title": "Bivariate Regression Analysis of the Association \nBetween Hardship and Pain",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          293.0712890625,
+          625.5844421386719
+        ],
+        [
+          507.3479919433594,
+          625.5844421386719
+        ],
+        [
+          507.3479919433594,
+          651.5884399414062
+        ],
+        [
+          293.0712890625,
+          651.5884399414062
+        ]
+      ]
+    },
+    {
+      "title": "Multivariate Regressions Analysis of the \nAssociation in Pain and Hardship",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.41357421875,
+          625.3346405029297
+        ],
+        [
+          243.0120086669922,
+          625.3346405029297
+        ],
+        [
+          243.0120086669922,
+          651.3386383056641
+        ],
+        [
+          61.41357421875,
+          651.3386383056641
+        ]
+      ]
+    },
+    {
+      "title": "Multivariate Regressions and the Moderating \nEffect of Medicare Insurance",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.353515625,
+          541.3346405029297
+        ],
+        [
+          514.0320434570312,
+          541.3346405029297
+        ],
+        [
+          514.0320434570312,
+          567.3386383056641
+        ],
+        [
+          307.353515625,
+          567.3386383056641
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          293.92822265625,
+          492.47442626953125
+        ],
+        [
+          352.6199951171875,
+          492.47442626953125
+        ],
+        [
+          352.6199951171875,
+          504.47442626953125
+        ],
+        [
+          293.92822265625,
+          504.47442626953125
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of Conflicting Interests",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          292.21435546875,
+          319.24072265625
+        ],
+        [
+          458.47003173828125,
+          319.24072265625
+        ],
+        [
+          458.47003173828125,
+          330.05059814453125
+        ],
+        [
+          292.21435546875,
+          330.05059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          293.92822265625,
+          381.05035400390625
+        ],
+        [
+          331.4900207519531,
+          381.05035400390625
+        ],
+        [
+          331.4900207519531,
+          391.05035400390625
+        ],
+        [
+          293.92822265625,
+          391.05035400390625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          292.5,
+          477.52294921875
+        ],
+        [
+          345.4499816894531,
+          477.52294921875
+        ],
+        [
+          345.4499816894531,
+          488.05035400390625
+        ],
+        [
+          292.5,
+          488.05035400390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          90
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "TableCell",
+          123
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "TableCell",
+          94
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          344
+        ],
+        [
+          "TableCell",
+          228
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          418
+        ],
+        [
+          "TableCell",
+          236
+        ],
+        [
+          "Line",
+          177
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          7
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/marshall2018"
+}

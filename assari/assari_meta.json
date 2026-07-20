@@ -1,0 +1,1005 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Benefits of Higher Income in Protecting against\nChronic Medical Conditions Are Smaller for African\nAmericans than Whites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.6640625,
+          113.47265625
+        ],
+        [
+          506.8684387207031,
+          113.47265625
+        ],
+        [
+          506.8684387207031,
+          173.263427734375
+        ],
+        [
+          75.6640625,
+          173.263427734375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.24609375,
+          548.8623046875
+        ],
+        [
+          144.6492919921875,
+          548.8623046875
+        ],
+        [
+          144.6492919921875,
+          561.40380859375
+        ],
+        [
+          76.24609375,
+          561.40380859375
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.08203125,
+          276.28125
+        ],
+        [
+          127.49369812011719,
+          276.28125
+        ],
+        [
+          127.49369812011719,
+          288.1767578125
+        ],
+        [
+          75.08203125,
+          288.1767578125
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Ethical Considerations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.955078125,
+          360.15234375
+        ],
+        [
+          185.79483032226562,
+          360.15234375
+        ],
+        [
+          185.79483032226562,
+          371.3292236328125
+        ],
+        [
+          75.955078125,
+          371.3292236328125
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Sampling and Participants",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.08203125,
+          430.044921875
+        ],
+        [
+          202.68142700195312,
+          430.044921875
+        ],
+        [
+          202.68142700195312,
+          441.0482177734375
+        ],
+        [
+          75.08203125,
+          441.0482177734375
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Enrollment in the NSAL",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.373046875,
+          539.40625
+        ],
+        [
+          194.31285095214844,
+          539.40625
+        ],
+        [
+          194.31285095214844,
+          551.2952270507812
+        ],
+        [
+          75.373046875,
+          551.2952270507812
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Sampling",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.791015625,
+          651.234375
+        ],
+        [
+          133.32180786132812,
+          651.234375
+        ],
+        [
+          133.32180786132812,
+          661.5422058105469
+        ],
+        [
+          74.791015625,
+          661.5422058105469
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Data Collection",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.6640625,
+          89.2158203125
+        ],
+        [
+          157.56080627441406,
+          89.2158203125
+        ],
+        [
+          157.56080627441406,
+          100.60321044921875
+        ],
+        [
+          75.6640625,
+          100.60321044921875
+        ]
+      ]
+    },
+    {
+      "title": "2.6. Measures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.373046875,
+          173.0869140625
+        ],
+        [
+          133.13253784179688,
+          173.0869140625
+        ],
+        [
+          133.13253784179688,
+          183.83221435546875
+        ],
+        [
+          75.373046875,
+          183.83221435546875
+        ]
+      ]
+    },
+    {
+      "title": "2.6.1. Moderator",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.955078125,
+          196.1103515625
+        ],
+        [
+          149.3018341064453,
+          196.1103515625
+        ],
+        [
+          149.3018341064453,
+          207.215087890625
+        ],
+        [
+          75.955078125,
+          207.215087890625
+        ]
+      ]
+    },
+    {
+      "title": "2.6.2. Covariates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.791015625,
+          266.0029296875
+        ],
+        [
+          149.21214294433594,
+          266.0029296875
+        ],
+        [
+          149.21214294433594,
+          276.93304443359375
+        ],
+        [
+          74.791015625,
+          276.93304443359375
+        ]
+      ]
+    },
+    {
+      "title": "2.6.3. Independent Variable",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.6640625,
+          375.775390625
+        ],
+        [
+          197.2617645263672,
+          375.775390625
+        ],
+        [
+          197.2617645263672,
+          387.18011474609375
+        ],
+        [
+          75.6640625,
+          387.18011474609375
+        ]
+      ]
+    },
+    {
+      "title": "2.6.4. Dependent Variable",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.955078125,
+          473.2138671875
+        ],
+        [
+          189.7300567626953,
+          473.2138671875
+        ],
+        [
+          189.7300567626953,
+          483.9180908203125
+        ],
+        [
+          75.955078125,
+          483.9180908203125
+        ]
+      ]
+    },
+    {
+      "title": "2.7. Statistical Analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.373046875,
+          610.5322265625
+        ],
+        [
+          173.0626220703125,
+          610.5322265625
+        ],
+        [
+          173.0626220703125,
+          621.0142059326172
+        ],
+        [
+          75.373046875,
+          621.0142059326172
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.6640625,
+          167.3310546875
+        ],
+        [
+          120.83867645263672,
+          167.3310546875
+        ],
+        [
+          120.83867645263672,
+          177.92974853515625
+        ],
+        [
+          75.6640625,
+          177.92974853515625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Descriptive Statistics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.955078125,
+          190.3544921875
+        ],
+        [
+          180.44491577148438,
+          190.3544921875
+        ],
+        [
+          180.44491577148438,
+          201.06719970703125
+        ],
+        [
+          75.955078125,
+          201.06719970703125
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Bivariate Correlations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.53498840332031,
+          529.1279296875
+        ],
+        [
+          183.21450805664062,
+          529.1279296875
+        ],
+        [
+          183.21450805664062,
+          540.9701843261719
+        ],
+        [
+          76.53498840332031,
+          540.9701843261719
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Linear Regressions in the Pooled Sample",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.955078125,
+          626.9775390625
+        ],
+        [
+          256.966796875,
+          626.9775390625
+        ],
+        [
+          256.966796875,
+          637.7081909179688
+        ],
+        [
+          75.955078125,
+          637.7081909179688
+        ]
+      ]
+    },
+    {
+      "title": "3.4. Linear Regressions in Whites and African Americans",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.955078125,
+          619.98828125
+        ],
+        [
+          308.4244689941406,
+          619.98828125
+        ],
+        [
+          308.4244689941406,
+          630.918212890625
+        ],
+        [
+          75.955078125,
+          630.918212890625
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.6640625,
+          274.2255859375
+        ],
+        [
+          137.43637084960938,
+          274.2255859375
+        ],
+        [
+          137.43637084960938,
+          285.63372802734375
+        ],
+        [
+          75.6640625,
+          285.63372802734375
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Implications",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.955078125,
+          463.7578125
+        ],
+        [
+          144.55963134765625,
+          463.7578125
+        ],
+        [
+          144.55963134765625,
+          475.06121826171875
+        ],
+        [
+          75.955078125,
+          475.06121826171875
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Limitations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.373046875,
+          708.3818359375
+        ],
+        [
+          141.06277465820312,
+          708.3818359375
+        ],
+        [
+          141.06277465820312,
+          720.402214050293
+        ],
+        [
+          75.373046875,
+          720.402214050293
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.24609375,
+          221.6005859375
+        ],
+        [
+          143.53347778320312,
+          221.6005859375
+        ],
+        [
+          143.53347778320312,
+          231.9677734375
+        ],
+        [
+          76.24609375,
+          231.9677734375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          75.955078125,
+          453.4794921875
+        ],
+        [
+          126.3380355834961,
+          453.4794921875
+        ],
+        [
+          126.3380355834961,
+          464.5557861328125
+        ],
+        [
+          75.955078125,
+          464.5557861328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "TableCell",
+          109
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "TableCell",
+          235
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          370
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Reference",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          363
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Reference",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/assari"
+}

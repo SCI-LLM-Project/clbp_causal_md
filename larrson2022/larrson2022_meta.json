@@ -1,0 +1,1274 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Contents lists available at ScienceDirect",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          228.41598510742188,
+          62.03124999999999
+        ],
+        [
+          371.40277099609375,
+          62.03124999999999
+        ],
+        [
+          371.40277099609375,
+          71.2650146484375
+        ],
+        [
+          228.41598510742188,
+          71.2650146484375
+        ]
+      ]
+    },
+    {
+      "title": "Metabolism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          262.49609375,
+          85.6806640625
+        ],
+        [
+          338.85565185546875,
+          85.6806640625
+        ],
+        [
+          338.85565185546875,
+          100.76190185546875
+        ],
+        [
+          262.49609375,
+          100.76190185546875
+        ]
+      ]
+    },
+    {
+      "title": "Review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.376953125,
+          146.9365234375
+        ],
+        [
+          71.41527557373047,
+          146.9365234375
+        ],
+        [
+          71.41527557373047,
+          158.035888671875
+        ],
+        [
+          36.376953125,
+          158.035888671875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.58740234375,
+          296.19921875
+        ],
+        [
+          120.90568542480469,
+          296.19921875
+        ],
+        [
+          120.90568542480469,
+          305.1954345703125
+        ],
+        [
+          37.58740234375,
+          305.1954345703125
+        ]
+      ]
+    },
+    {
+      "title": "Keywords: \nBody mass index \nCancer \nMendelian randomization \nObesity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.794921875,
+          315.583984375
+        ],
+        [
+          112.46024322509766,
+          315.583984375
+        ],
+        [
+          112.46024322509766,
+          357.8154602050781
+        ],
+        [
+          35.794921875,
+          357.8154602050781
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.80078125,
+          296.19921875
+        ],
+        [
+          263.930419921875,
+          296.19921875
+        ],
+        [
+          263.930419921875,
+          305.1954345703125
+        ],
+        [
+          200.80078125,
+          305.1954345703125
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.958984375,
+          505.94238281249994
+        ],
+        [
+          100.17181396484375,
+          505.94238281249994
+        ],
+        [
+          100.17181396484375,
+          517.6639709472656
+        ],
+        [
+          36.958984375,
+          517.6639709472656
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.66796875,
+          252.77734374999997
+        ],
+        [
+          84.6153564453125,
+          252.77734374999997
+        ],
+        [
+          84.6153564453125,
+          262.3743896484375
+        ],
+        [
+          36.66796875,
+          262.3743896484375
+        ]
+      ]
+    },
+    {
+      "title": "3. Body fatness-cancer associations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.376953125,
+          524.5517578125
+        ],
+        [
+          176.73245239257812,
+          524.5517578125
+        ],
+        [
+          176.73245239257812,
+          534.6713256835938
+        ],
+        [
+          36.376953125,
+          534.6713256835938
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Previous evidence from observational studies (IARC and WCRF \nreports)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.376953125,
+          545.099609375
+        ],
+        [
+          270.6202087402344,
+          545.099609375
+        ],
+        [
+          270.6202087402344,
+          566.0225219726562
+        ],
+        [
+          36.376953125,
+          566.0225219726562
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Recent evidence from large cohort studies and pooled analyses",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.984375,
+          419.8740234375
+        ],
+        [
+          536.2787475585938,
+          419.8740234375
+        ],
+        [
+          536.2787475585938,
+          430.0161437988281
+        ],
+        [
+          304.984375,
+          430.0161437988281
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1. Studies of BMI and several cancers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.693359375,
+          482.68066406249994
+        ],
+        [
+          451.4959716796875,
+          482.68066406249994
+        ],
+        [
+          451.4959716796875,
+          492.8309020996094
+        ],
+        [
+          304.693359375,
+          492.8309020996094
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2. Digestive system cancers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1484375,
+          467.56054687499994
+        ],
+        [
+          414.87158203125,
+          467.56054687499994
+        ],
+        [
+          414.87158203125,
+          478.65911865234375
+        ],
+        [
+          306.1484375,
+          478.65911865234375
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3. Urinary tract cancers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.376953125,
+          231.06640624999997
+        ],
+        [
+          136.33871459960938,
+          231.06640624999997
+        ],
+        [
+          136.33871459960938,
+          241.115234375
+        ],
+        [
+          36.376953125,
+          241.115234375
+        ]
+      ]
+    },
+    {
+      "title": "3.2.4. Sex hormone-related cancers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.0859375,
+          429.17871093749994
+        ],
+        [
+          161.11441040039062,
+          429.17871093749994
+        ],
+        [
+          161.11441040039062,
+          439.8800354003906
+        ],
+        [
+          36.0859375,
+          439.8800354003906
+        ]
+      ]
+    },
+    {
+      "title": "3.2.5. Hematologic cancers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.66796875,
+          670.712890625
+        ],
+        [
+          133.50277709960938,
+          670.712890625
+        ],
+        [
+          133.50277709960938,
+          680.4293670654297
+        ],
+        [
+          36.66796875,
+          680.4293670654297
+        ]
+      ]
+    },
+    {
+      "title": "3.2.6. Other cancers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.984375,
+          283.017578125
+        ],
+        [
+          379.94866943359375,
+          283.017578125
+        ],
+        [
+          379.94866943359375,
+          293.3871154785156
+        ],
+        [
+          304.984375,
+          293.3871154785156
+        ]
+      ]
+    },
+    {
+      "title": "3.2.7. BMI and cancer in Asian populations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.56640625,
+          440.03417968749994
+        ],
+        [
+          458.929931640625,
+          440.03417968749994
+        ],
+        [
+          458.929931640625,
+          450.3122253417969
+        ],
+        [
+          305.56640625,
+          450.3122253417969
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Evidence from Mendelian randomization studies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.376953125,
+          242.69726562499997
+        ],
+        [
+          219.1082305908203,
+          242.69726562499997
+        ],
+        [
+          219.1082305908203,
+          252.2271728515625
+        ],
+        [
+          36.376953125,
+          252.2271728515625
+        ]
+      ]
+    },
+    {
+      "title": "4. Biological mechanisms",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.693359375,
+          211.68164062499997
+        ],
+        [
+          408.4400329589844,
+          211.68164062499997
+        ],
+        [
+          408.4400329589844,
+          220.3092041015625
+        ],
+        [
+          304.693359375,
+          220.3092041015625
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Adipocytokines and low-grade inflammation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.857421875,
+          347.375
+        ],
+        [
+          475.1155090332031,
+          347.375
+        ],
+        [
+          475.1155090332031,
+          356.8242492675781
+        ],
+        [
+          305.857421875,
+          356.8242492675781
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Insulin and IGF-I",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.66796875,
+          513.6962890625
+        ],
+        [
+          115.61309814453125,
+          513.6962890625
+        ],
+        [
+          115.61309814453125,
+          524.1833190917969
+        ],
+        [
+          36.66796875,
+          524.1833190917969
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Signaling pathways linking adiponectin, insulin, and cancer growth",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.40234375,
+          232.22949218749997
+        ],
+        [
+          551.3521728515625,
+          232.22949218749997
+        ],
+        [
+          551.3521728515625,
+          241.460693359375
+        ],
+        [
+          304.40234375,
+          241.460693359375
+        ]
+      ]
+    },
+    {
+      "title": "4.4. Sex hormones",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.1484375,
+          544.7119140625
+        ],
+        [
+          373.7376403808594,
+          544.7119140625
+        ],
+        [
+          373.7376403808594,
+          555.5926666259766
+        ],
+        [
+          306.1484375,
+          555.5926666259766
+        ]
+      ]
+    },
+    {
+      "title": "4.5. Emerging mechanisms",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.376953125,
+          305.50390625
+        ],
+        [
+          131.20904541015625,
+          305.50390625
+        ],
+        [
+          131.20904541015625,
+          314.9851379394531
+        ],
+        [
+          36.376953125,
+          314.9851379394531
+        ]
+      ]
+    },
+    {
+      "title": "5. Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.275390625,
+          86.068359375
+        ],
+        [
+          361.413330078125,
+          86.068359375
+        ],
+        [
+          361.413330078125,
+          95.30224609375
+        ],
+        [
+          305.275390625,
+          95.30224609375
+        ]
+      ]
+    },
+    {
+      "title": "[201].",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          37.58740234375,
+          52.7265625
+        ],
+        [
+          62.35847473144531,
+          52.7265625
+        ],
+        [
+          62.35847473144531,
+          63.27099609375
+        ],
+        [
+          37.58740234375,
+          63.27099609375
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.0859375,
+          220.98632812499997
+        ],
+        [
+          94.30581665039062,
+          220.98632812499997
+        ],
+        [
+          94.30581665039062,
+          230.6829833984375
+        ],
+        [
+          36.0859375,
+          230.6829833984375
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.0859375,
+          357.8427734375
+        ],
+        [
+          201.86073303222656,
+          357.8427734375
+        ],
+        [
+          201.86073303222656,
+          366.7453308105469
+        ],
+        [
+          36.0859375,
+          366.7453308105469
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.0859375,
+          419.486328125
+        ],
+        [
+          168.50904846191406,
+          419.486328125
+        ],
+        [
+          168.50904846191406,
+          429.67327880859375
+        ],
+        [
+          36.0859375,
+          429.67327880859375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.212890625,
+          461.74511718749994
+        ],
+        [
+          99.65057373046875,
+          461.74511718749994
+        ],
+        [
+          99.65057373046875,
+          471.7394714355469
+        ],
+        [
+          35.212890625,
+          471.7394714355469
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.66796875,
+          502.45312499999994
+        ],
+        [
+          66.48698425292969,
+          502.45312499999994
+        ],
+        [
+          66.48698425292969,
+          513.748291015625
+        ],
+        [
+          36.66796875,
+          513.748291015625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.0859375,
+          554.7919921875
+        ],
+        [
+          81.13603210449219,
+          554.7919921875
+        ],
+        [
+          81.13603210449219,
+          566.0751953125
+        ],
+        [
+          36.0859375,
+          566.0751953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          467
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          576
+        ],
+        [
+          "Line",
+          154
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          398
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          443
+        ],
+        [
+          "Line",
+          146
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          602
+        ],
+        [
+          "Line",
+          172
+        ],
+        [
+          "ListItem",
+          56
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          618
+        ],
+        [
+          "Line",
+          173
+        ],
+        [
+          "ListItem",
+          56
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          615
+        ],
+        [
+          "Line",
+          173
+        ],
+        [
+          "ListItem",
+          58
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/larrson2022"
+}

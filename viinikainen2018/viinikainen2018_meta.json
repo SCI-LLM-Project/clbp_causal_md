@@ -1,0 +1,306 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Preventive Medicine",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          234.19647355163727,
+          85.29296875
+        ],
+        [
+          364.05541561712846,
+          85.29296875
+        ],
+        [
+          364.05541561712846,
+          96.71954674220963
+        ],
+        [
+          234.19647355163727,
+          96.71954674220963
+        ]
+      ]
+    },
+    {
+      "title": "Does education protect against depression? Evidence from the Young Finns Study using Mendelian randomization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.03022670025189,
+          164.7705078125
+        ],
+        [
+          490.91183879093194,
+          164.7705078125
+        ],
+        [
+          490.91183879093194,
+          195.0107421875
+        ],
+        [
+          36.03022670025189,
+          195.0107421875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.03022670025189,
+          346.3909348441926
+        ],
+        [
+          111.84382871536523,
+          346.3909348441926
+        ],
+        [
+          111.84382871536523,
+          353.13881019830023
+        ],
+        [
+          36.03022670025189,
+          353.13881019830023
+        ]
+      ]
+    },
+    {
+      "title": "Keywords:\nEducation\nDepression\nMendelian randomization\nInstrumental variables",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.212890625,
+          365.208984375
+        ],
+        [
+          111.09319899244332,
+          365.208984375
+        ],
+        [
+          111.09319899244332,
+          407.1218130311614
+        ],
+        [
+          35.212890625,
+          407.1218130311614
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.91939546599497,
+          345.4365234375
+        ],
+        [
+          257.4659949622166,
+          345.4365234375
+        ],
+        [
+          257.4659949622166,
+          353.13881019830023
+        ],
+        [
+          201.91939546599497,
+          353.13881019830023
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.376953125,
+          550.9150390625
+        ],
+        [
+          97.58186397984886,
+          550.9150390625
+        ],
+        [
+          97.58186397984886,
+          560.823418319169
+        ],
+        [
+          36.376953125,
+          560.823418319169
+        ]
+      ]
+    },
+    {
+      "title": "2 Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.66796875,
+          693.974609375
+        ],
+        [
+          81.81863979848866,
+          693.974609375
+        ],
+        [
+          81.81863979848866,
+          704.028328611898
+        ],
+        [
+          36.66796875,
+          704.028328611898
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.03022670025189,
+          716.8486328125
+        ],
+        [
+          71.30982367758186,
+          716.8486328125
+        ],
+        [
+          71.30982367758186,
+          725.7714825306892
+        ],
+        [
+          36.03022670025189,
+          725.7714825306892
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Statistical methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.7556675062972,
+          716.0732421875
+        ],
+        [
+          387.3249370277078,
+          716.0732421875
+        ],
+        [
+          387.3249370277078,
+          725.7714825306892
+        ],
+        [
+          304.7556675062972,
+          725.7714825306892
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          143
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/viinikainen2018"
+}

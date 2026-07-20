@@ -1,0 +1,932 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BASIC\nSCIENCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          581.57177734375,
+          441.46142578125
+        ],
+        [
+          602.52392578125,
+          441.46142578125
+        ],
+        [
+          602.52392578125,
+          496.30615234375
+        ],
+        [
+          581.57177734375,
+          496.30615234375
+        ]
+      ]
+    },
+    {
+      "title": "Original article",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.03182374541004,
+          61.41064453125
+        ],
+        [
+          209.33537331701345,
+          61.41064453125
+        ],
+        [
+          209.33537331701345,
+          80.72216796875
+        ],
+        [
+          78.03182374541004,
+          80.72216796875
+        ]
+      ]
+    },
+    {
+      "title": "The impact of education inequality on rheumatoid arthritis risk is mediated by smoking and body mass index: Mendelian randomization study",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.03182374541004,
+          99.6474609375
+        ],
+        [
+          525.2141982864136,
+          99.6474609375
+        ],
+        [
+          525.2141982864136,
+          159.8994140625
+        ],
+        [
+          78.03182374541004,
+          159.8994140625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.03182374541004,
+          228.6484375
+        ],
+        [
+          125.30110159118726,
+          228.6484375
+        ],
+        [
+          125.30110159118726,
+          237.67488151658767
+        ],
+        [
+          78.03182374541004,
+          237.67488151658767
+        ]
+      ]
+    },
+    {
+      "title": "Rheumatology key messages",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.78702570379437,
+          471.58740234375
+        ],
+        [
+          214.5875152998776,
+          471.58740234375
+        ],
+        [
+          214.5875152998776,
+          480.5981042654028
+        ],
+        [
+          90.78702570379437,
+          480.5981042654028
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.03182374541004,
+          550.3260663507109
+        ],
+        [
+          144.05875152998775,
+          550.3260663507109
+        ],
+        [
+          144.05875152998775,
+          560.0729857819905
+        ],
+        [
+          78.03182374541004,
+          560.0729857819905
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.2822265625,
+          157.96826171875
+        ],
+        [
+          360.7800598144531,
+          157.96826171875
+        ],
+        [
+          360.7800598144531,
+          170.07806396484375
+        ],
+        [
+          314.2822265625,
+          170.07806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Instrumental variable selection and data\nharmonization",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.72021484375,
+          350.31103515625
+        ],
+        [
+          243.916259765625,
+          350.31103515625
+        ],
+        [
+          243.916259765625,
+          371.58251953125
+        ],
+        [
+          78.72021484375,
+          371.58251953125
+        ]
+      ]
+    },
+    {
+      "title": "Effects of education on RA, smoking exposure and\nBMI",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.72021484375,
+          612.94775390625
+        ],
+        [
+          291.2661437988281,
+          612.94775390625
+        ],
+        [
+          291.2661437988281,
+          633.3336181640625
+        ],
+        [
+          78.72021484375,
+          633.3336181640625
+        ]
+      ]
+    },
+    {
+      "title": "Decomposing mediated effects",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.98291015625,
+          59.09326171875
+        ],
+        [
+          442.76788330078125,
+          59.09326171875
+        ],
+        [
+          442.76788330078125,
+          69.35296630859375
+        ],
+        [
+          313.98291015625,
+          69.35296630859375
+        ]
+      ]
+    },
+    {
+      "title": "Univariable and multivariable MR methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.6456298828125,
+          318.25390625
+        ],
+        [
+          489.1412658691406,
+          318.25390625
+        ],
+        [
+          489.1412658691406,
+          329.2900390625
+        ],
+        [
+          314.6456298828125,
+          329.2900390625
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.58154296875,
+          591.31884765625
+        ],
+        [
+          393.95904541015625,
+          591.31884765625
+        ],
+        [
+          393.95904541015625,
+          600.4521179199219
+        ],
+        [
+          314.58154296875,
+          600.4521179199219
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.98291015625,
+          570.46240234375
+        ],
+        [
+          354.0149841308594,
+          570.46240234375
+        ],
+        [
+          354.0149841308594,
+          581.6117706298828
+        ],
+        [
+          313.98291015625,
+          581.6117706298828
+        ]
+      ]
+    },
+    {
+      "title": "Effect of BMI and smoking behaviour on RA",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.37010192871094,
+          395.88623046875
+        ],
+        [
+          263.07904052734375,
+          395.88623046875
+        ],
+        [
+          263.07904052734375,
+          405.5986328125
+        ],
+        [
+          79.37010192871094,
+          405.5986328125
+        ]
+      ]
+    },
+    {
+      "title": "Mediation by smoking and BMI behaviour",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.01953125,
+          511.75537109375
+        ],
+        [
+          252.2718505859375,
+          511.75537109375
+        ],
+        [
+          252.2718505859375,
+          521.4789428710938
+        ],
+        [
+          79.01953125,
+          521.4789428710938
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity analyses",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          314.2822265625,
+          431.8056640625
+        ],
+        [
+          393.95904541015625,
+          431.8056640625
+        ],
+        [
+          393.95904541015625,
+          442.05224609375
+        ],
+        [
+          314.2822265625,
+          442.05224609375
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          78.72021484375,
+          675.130859375
+        ],
+        [
+          137.1646270751953,
+          675.130859375
+        ],
+        [
+          137.1646270751953,
+          686.8338623046875
+        ],
+        [
+          78.72021484375,
+          686.8338623046875
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          78.12158203125,
+          59.86572265625
+        ],
+        [
+          183.29904174804688,
+          59.86572265625
+        ],
+        [
+          183.29904174804688,
+          71.09210205078125
+        ],
+        [
+          78.12158203125,
+          71.09210205078125
+        ]
+      ]
+    },
+    {
+      "title": "Data availability statement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          79.31884765625,
+          456.2621765136719
+        ],
+        [
+          217.86141967773438,
+          456.2621765136719
+        ],
+        [
+          217.86141967773438,
+          467.2622985839844
+        ],
+        [
+          79.31884765625,
+          467.2622985839844
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary data",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          78.72021484375,
+          523.9533386230469
+        ],
+        [
+          184.63665771484375,
+          523.9533386230469
+        ],
+        [
+          184.63665771484375,
+          534.9534606933594
+        ],
+        [
+          78.72021484375,
+          534.9534606933594
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          78.72021484375,
+          581.27685546875
+        ],
+        [
+          139.10064697265625,
+          581.27685546875
+        ],
+        [
+          139.10064697265625,
+          593.5739593505859
+        ],
+        [
+          78.72021484375,
+          593.5739593505859
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          383
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          288
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/zhao2022"
+}

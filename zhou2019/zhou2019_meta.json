@@ -1,0 +1,828 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mendelian Randomization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.15589904785156,
+          131.318359375
+        ],
+        [
+          209.7667236328125,
+          131.318359375
+        ],
+        [
+          209.7667236328125,
+          146.42706298828125
+        ],
+        [
+          63.15589904785156,
+          146.42706298828125
+        ]
+      ]
+    },
+    {
+      "title": "Education and lung cancer: a Mendelian\nrandomization study",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.55712890625,
+          159.8994140625
+        ],
+        [
+          403.4638671875,
+          159.8994140625
+        ],
+        [
+          403.4638671875,
+          201.42718505859375
+        ],
+        [
+          62.55712890625,
+          201.42718505859375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.55712890625,
+          395.88623046875
+        ],
+        [
+          109.60398864746094,
+          395.88623046875
+        ],
+        [
+          109.60398864746094,
+          409.05029296875
+        ],
+        [
+          62.55712890625,
+          409.05029296875
+        ]
+      ]
+    },
+    {
+      "title": "Key Messages",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.033203125,
+          153.33349609375
+        ],
+        [
+          129.049560546875,
+          153.33349609375
+        ],
+        [
+          129.049560546875,
+          162.97039794921875
+        ],
+        [
+          73.033203125,
+          162.97039794921875
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.8564453125,
+          273.83740234375
+        ],
+        [
+          126.1314697265625,
+          273.83740234375
+        ],
+        [
+          126.1314697265625,
+          285.74859619140625
+        ],
+        [
+          62.8564453125,
+          285.74859619140625
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.8564453125,
+          56.00341796875
+        ],
+        [
+          109.64232635498047,
+          56.00341796875
+        ],
+        [
+          109.64232635498047,
+          68.61474609375
+        ],
+        [
+          62.8564453125,
+          68.61474609375
+        ]
+      ]
+    },
+    {
+      "title": "Genetic variants associated with educational\nattainment",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.15576171875,
+          77.24609375
+        ],
+        [
+          270.58197021484375,
+          77.24609375
+        ],
+        [
+          270.58197021484375,
+          100.37396240234375
+        ],
+        [
+          63.15576171875,
+          100.37396240234375
+        ]
+      ]
+    },
+    {
+      "title": "GWAS summary data on lung cancer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          315.1557922363281,
+          57.54833984375
+        ],
+        [
+          488.78369140625,
+          57.54833984375
+        ],
+        [
+          488.78369140625,
+          68.171875
+        ],
+        [
+          315.1557922363281,
+          68.171875
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          315.1557922363281,
+          245.642578125
+        ],
+        [
+          404.0771484375,
+          245.642578125
+        ],
+        [
+          404.0771484375,
+          256.619140625
+        ],
+        [
+          315.1557922363281,
+          256.619140625
+        ]
+      ]
+    },
+    {
+      "title": "Patient involvement",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.8564453125,
+          466.56640625
+        ],
+        [
+          156.1578369140625,
+          466.56640625
+        ],
+        [
+          156.1578369140625,
+          479.025390625
+        ],
+        [
+          62.8564453125,
+          479.025390625
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.68359375,
+          56.77587890625
+        ],
+        [
+          353.6341552734375,
+          56.77587890625
+        ],
+        [
+          353.6341552734375,
+          68.61474609375
+        ],
+        [
+          313.68359375,
+          68.61474609375
+        ]
+      ]
+    },
+    {
+      "title": "Causal effect from education to lung cancer",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.98291015625,
+          76.08740234375
+        ],
+        [
+          517.1937866210938,
+          76.08740234375
+        ],
+        [
+          517.1937866210938,
+          87.39080810546875
+        ],
+        [
+          313.98291015625,
+          87.39080810546875
+        ]
+      ]
+    },
+    {
+      "title": "Causal effect from education on potential lung\ncancer risk factors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.8564453125,
+          454.59326171875
+        ],
+        [
+          278.1031188964844,
+          454.59326171875
+        ],
+        [
+          278.1031188964844,
+          479.3659362792969
+        ],
+        [
+          62.8564453125,
+          479.3659362792969
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.8564453125,
+          662.771484375
+        ],
+        [
+          119.4984130859375,
+          662.771484375
+        ],
+        [
+          119.4984130859375,
+          675.568977355957
+        ],
+        [
+          62.8564453125,
+          675.568977355957
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.8564453125,
+          378.11962890625
+        ],
+        [
+          170.82269287109375,
+          378.11962890625
+        ],
+        [
+          170.82269287109375,
+          389.8367004394531
+        ],
+        [
+          62.8564453125,
+          389.8367004394531
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.55712890625,
+          430.2607421875
+        ],
+        [
+          106.08928680419922,
+          430.2607421875
+        ],
+        [
+          106.08928680419922,
+          442.0509338378906
+        ],
+        [
+          62.55712890625,
+          442.0509338378906
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.6591796875,
+          506.734375
+        ],
+        [
+          167.59085083007812,
+          506.734375
+        ],
+        [
+          167.59085083007812,
+          518.3029174804688
+        ],
+        [
+          61.6591796875,
+          518.3029174804688
+        ]
+      ]
+    },
+    {
+      "title": "Author Contributions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.55712890625,
+          621.05859375
+        ],
+        [
+          174.79261779785156,
+          621.05859375
+        ],
+        [
+          174.79261779785156,
+          633.0492706298828
+        ],
+        [
+          62.55712890625,
+          633.0492706298828
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          314.58154296875,
+          58.32080078125
+        ],
+        [
+          372.64892578125,
+          58.32080078125
+        ],
+        [
+          372.64892578125,
+          70.14544677734375
+        ],
+        [
+          314.58154296875,
+          70.14544677734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          324
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/zhou2019"
+}

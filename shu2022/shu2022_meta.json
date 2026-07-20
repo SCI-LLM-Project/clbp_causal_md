@@ -1,0 +1,1014 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OPEN ACCESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.29296875,
+          169.38671875
+        ],
+        [
+          104.17542266845703,
+          169.38671875
+        ],
+        [
+          104.17542266845703,
+          178.3572998046875
+        ],
+        [
+          55.29296875,
+          178.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "CITATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.166015625,
+          440.3232421875
+        ],
+        [
+          82.41484832763672,
+          440.3232421875
+        ],
+        [
+          82.41484832763672,
+          449.51849365234375
+        ],
+        [
+          56.166015625,
+          449.51849365234375
+        ]
+      ]
+    },
+    {
+      "title": "COPYRIGHT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.001953125,
+          517.6162109375
+        ],
+        [
+          88.40876007080078,
+          517.6162109375
+        ],
+        [
+          88.40876007080078,
+          526.7342224121094
+        ],
+        [
+          55.001953125,
+          526.7342224121094
+        ]
+      ]
+    },
+    {
+      "title": "Association of insomnia and\ndaytime sleepiness with low back\npain: A bidirectional mendelian\nrandomization analysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.58984375,
+          131.1513671875
+        ],
+        [
+          538.5418701171875,
+          131.1513671875
+        ],
+        [
+          538.5418701171875,
+          230.5452880859375
+        ],
+        [
+          220.58984375,
+          230.5452880859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.875,
+          129.91796875
+        ],
+        [
+          133.9468231201172,
+          129.91796875
+        ],
+        [
+          133.9468231201172,
+          143.84881591796875
+        ],
+        [
+          55.875,
+          143.84881591796875
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.89453125,
+          292.3143310546875
+        ],
+        [
+          451.1039123535156,
+          292.3143310546875
+        ],
+        [
+          451.1039123535156,
+          305.7637939453125
+        ],
+        [
+          307.89453125,
+          305.7637939453125
+        ]
+      ]
+    },
+    {
+      "title": "Study design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          308.185546875,
+          317.39453125
+        ],
+        [
+          379.7911682128906,
+          317.39453125
+        ],
+        [
+          379.7911682128906,
+          330.309326171875
+        ],
+        [
+          308.185546875,
+          330.309326171875
+        ]
+      ]
+    },
+    {
+      "title": "Genome-wide association study data\nsources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          308.4765625,
+          553.7958984375
+        ],
+        [
+          515.2843017578125,
+          553.7958984375
+        ],
+        [
+          515.2843017578125,
+          579.3609313964844
+        ],
+        [
+          308.4765625,
+          579.3609313964844
+        ]
+      ]
+    },
+    {
+      "title": "Genetic correlation analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.583984375,
+          554.6181640625
+        ],
+        [
+          209.96568298339844,
+          554.6181640625
+        ],
+        [
+          209.96568298339844,
+          566.945556640625
+        ],
+        [
+          55.583984375,
+          566.945556640625
+        ]
+      ]
+    },
+    {
+      "title": "Mendelian randomization analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.69289779663086,
+          654.5998840332031
+        ],
+        [
+          243.75439453125,
+          654.5998840332031
+        ],
+        [
+          243.75439453125,
+          666.5549926757812
+        ],
+        [
+          56.69289779663086,
+          666.5549926757812
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.69289779663086,
+          416.06640625
+        ],
+        [
+          100.91484832763672,
+          416.06640625
+        ],
+        [
+          100.91484832763672,
+          430.3180847167969
+        ],
+        [
+          56.69289779663086,
+          430.3180847167969
+        ]
+      ]
+    },
+    {
+      "title": "Linkage disequilibrium score regression",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.875,
+          442.37890625
+        ],
+        [
+          275.6625671386719,
+          442.37890625
+        ],
+        [
+          275.6625671386719,
+          454.86370849609375
+        ],
+        [
+          55.875,
+          454.86370849609375
+        ]
+      ]
+    },
+    {
+      "title": "IVs selection for mendelian randomization\nanalysis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.45703125,
+          553.384765625
+        ],
+        [
+          286.296630859375,
+          553.384765625
+        ],
+        [
+          286.296630859375,
+          579.4183044433594
+        ],
+        [
+          56.45703125,
+          579.4183044433594
+        ]
+      ]
+    },
+    {
+      "title": "The causal effect of insomnia on low back\npain",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          307.3125,
+          479.380859375
+        ],
+        [
+          538.5526123046875,
+          479.380859375
+        ],
+        [
+          538.5526123046875,
+          504.6971130371094
+        ],
+        [
+          307.3125,
+          504.6971130371094
+        ]
+      ]
+    },
+    {
+      "title": "The causal effect of daytime sleepiness on\nlow back pain",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.29296875,
+          80.9931640625
+        ],
+        [
+          286.2738952636719,
+          80.9931640625
+        ],
+        [
+          286.2738952636719,
+          106.20263671875
+        ],
+        [
+          55.29296875,
+          106.20263671875
+        ]
+      ]
+    },
+    {
+      "title": "The causal effect of low back pain on\ninsomnia",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.29296875,
+          304.6494140625
+        ],
+        [
+          266.9975280761719,
+          304.6494140625
+        ],
+        [
+          266.9975280761719,
+          330.366455078125
+        ],
+        [
+          55.29296875,
+          330.366455078125
+        ]
+      ]
+    },
+    {
+      "title": "The causal effect of low back pain on\ndaytime sleepiness",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.583984375,
+          516.7939453125
+        ],
+        [
+          266.9975280761719,
+          516.7939453125
+        ],
+        [
+          266.9975280761719,
+          542.0577392578125
+        ],
+        [
+          55.583984375,
+          542.0577392578125
+        ]
+      ]
+    },
+    {
+      "title": "Robustness check",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.166015625,
+          678.7802734375
+        ],
+        [
+          156.7152557373047,
+          678.7802734375
+        ],
+        [
+          156.7152557373047,
+          691.4999084472656
+        ],
+        [
+          56.166015625,
+          691.4999084472656
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          307.89453125,
+          192.41015625
+        ],
+        [
+          374.86541748046875,
+          192.41015625
+        ],
+        [
+          374.86541748046875,
+          206.15435791015625
+        ],
+        [
+          307.89453125,
+          206.15435791015625
+        ]
+      ]
+    },
+    {
+      "title": "Data availability statement",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.4765625,
+          78.9375
+        ],
+        [
+          472.8138427734375,
+          78.9375
+        ],
+        [
+          472.8138427734375,
+          94.07244873046875
+        ],
+        [
+          308.4765625,
+          94.07244873046875
+        ]
+      ]
+    },
+    {
+      "title": "Ethics statement",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.4765625,
+          167.7421875
+        ],
+        [
+          412.71746826171875,
+          167.7421875
+        ],
+        [
+          412.71746826171875,
+          181.26617431640625
+        ],
+        [
+          308.4765625,
+          181.26617431640625
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          307.603515625,
+          278.3369140625
+        ],
+        [
+          438.5633850097656,
+          278.3369140625
+        ],
+        [
+          438.5633850097656,
+          293.3480224609375
+        ],
+        [
+          307.603515625,
+          293.3480224609375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          307.89453125,
+          402.91015625
+        ],
+        [
+          423.8456115722656,
+          402.91015625
+        ],
+        [
+          423.8456115722656,
+          417.845703125
+        ],
+        [
+          307.89453125,
+          417.845703125
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          307.3125,
+          476.0340881347656
+        ],
+        [
+          426.4010009765625,
+          476.0340881347656
+        ],
+        [
+          426.4010009765625,
+          492.5669860839844
+        ],
+        [
+          307.3125,
+          492.5669860839844
+        ]
+      ]
+    },
+    {
+      "title": "Publisher's note",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.4765625,
+          564.896484375
+        ],
+        [
+          408.0908508300781,
+          564.896484375
+        ],
+        [
+          408.0908508300781,
+          579.7606201171875
+        ],
+        [
+          308.4765625,
+          579.7606201171875
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary material",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          307.89453125,
+          677.546875
+        ],
+        [
+          456.8304748535156,
+          677.546875
+        ],
+        [
+          456.8304748535156,
+          691.8425140380859
+        ],
+        [
+          307.89453125,
+          691.8425140380859
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.166015625,
+          79.759765625
+        ],
+        [
+          125.7157211303711,
+          79.759765625
+        ],
+        [
+          125.7157211303711,
+          94.07244873046875
+        ],
+        [
+          56.166015625,
+          94.07244873046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "TableCell",
+          168
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          539
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "Reference",
+          39
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Reference",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/shu2022"
+}

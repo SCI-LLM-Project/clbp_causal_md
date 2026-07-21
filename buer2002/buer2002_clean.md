@@ -1,0 +1,149 @@
+Pain 99 (2002) 485-491
+
+# Fear-avoidance beliefs and catastrophizing: occurrence and risk factor in back pain and ADL in the general population
+
+Nina Buer<sup>a,b,\*</sup>, Steven J. Linton<sup>c</sup>
+
+<sup>a</sup>Neurotec Department, Division of Physiotherapy, Karolinska Institute, Stockholm, Sweden <sup>b</sup>Department of Health Promotion for Personnel, Örebro University Hospital, SE-701 85 Örebro, Sweden <sup>c</sup>Department of Occupational and Environmental Medicine, Örebro University Hospital, SE-701 85 Örebro, Sweden
+
+Received 11 April 2002; accepted 21 June 2002
+
+## Abstract
+
+Fear-avoidance beliefs and catastrophizing have been shown to be powerful cognitions in the process of developing chronic pain problems and there is a need for increased knowledge in early stages of pain.
+
+The objectives of this study were therefore, firstly, to examine the occurrence of fear-avoidance beliefs and catastrophizing in groups with different degrees of non-chronic spinal pain in a general population, and secondly to assess if fear-avoidance beliefs and catastrophizing were related to current ratings of pain and activities of daily living (ADL).
+
+The study was a part of a population based back pain project and the study sample consisted of 917 men and women, 35–45 years old, either pain-free or with non-chronic spinal pain. The results showed that fear-avoidance beliefs as well as catastrophizing occur in this general population of non-patients. The levels were moderate and in catastrophizing a 'dose–response' pattern was seen, such that more the catastrophizing was, the more was pain. The study showed two relationships, which were between fear-avoidance and ADL as well as between catastrophizing and pain intensity. Logistic regression analyses were performed with 95% confidence intervals and the odds ratio for fear-avoidance beliefs and ADL was 2.5 and for catastrophizing and pain 1.8, both with confidence interval above unity. The results suggest that fear-avoidance beliefs and catastrophizing may play an active part in the transition from acute to chronic pain and clinical implications include screening and early intervention. © 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+
+Keywords: Back pain; Catastrophizing; Fear-avoidance beliefs; General population
+
+#### 1. Introduction
+
+The term fear-avoidance was first coined by Lethem et al. (1983) while describing the fear-avoidance model of exaggerated pain perception. According to this model there are two extreme responses to pain: the adaptive response or confrontation and the non-adaptive response or avoidance. The confronter is likely to view pain as something temporary and therefore prepared to confront the pain. Furthermore he/she is probably motivated to return to work and normal activities. The importance of psychological mechanisms and consequences will in this case be minor. Avoidance, on the other hand, might create physical as well as psychological consequences that increase the individual's beliefs of feared but also actual disability. The avoidance behaviour may in this case be promoted and prolonged. Later, Philips (1987) emphasised the importance of cognitions influencing
+
+avoidance behaviour and suggested that avoidance behaviour is a prominent component of chronic pain. The direct relationship between pain and disability has been shown to be low (e.g. Riley et al., 1988; Williams et al., 1989; Waddell et al., 1993; Linton and Buer, 1995) and the impact of cognitive processes, like beliefs and expectations have been found to be important.
+
+These first theoretical propositions have been followed by a number of publications aiming at delineating the role that fear-avoidance beliefs play in the development and maintenance of pain in chronic pain patients (Crombez et al., 1999; Waddell et al., 1993; Vlaeyen et al., 1995a, Asmundson et al., 1999).
+
+Vlaeyen et al. (1995b) suggested a more specific form of fear-avoidance, namely fear of movement/(re) injury, see Fig. 1. A chain of reactions including catastrophizing and avoidance can lead to disuse, disability and depression, creating a vicious circle. The non-catastrophizing and confronting alternative would promote recovery.
+
+<sup>\*</sup> Corresponding author. Tel.: +46-19-602-5772; fax: +46-19-602-5778. *E-mail address:* nina.buer@orebroll.se (N. Buer).
+
+Fig. 1. Cognitive-behavioural model of fear-of-movement/(re) injury based on Vlaeyen et al. (1995b).
+
+A relationship between fear-avoidance beliefs, as powerful and specific cognitive behavioural components, and chronic pain has been reported in the literature (Waddell et al., 1993; Burton et al., 1995; Vlaeyen et al., 1995a,b, 1999; Asmundson and Taylor, 1996). Catastrophizing, which is said to be the exaggerated and negative orientation toward pain, may have a role as a mediator to pain (Geisser et al., 1994; Sullivan et al., 1995; Crombez et al., 1998a). Individuals that catastrophise, expect that they cause a new episode of pain or activate an earlier injury. That could create fear of movement and reinforcement of avoidance behaviour. The issue of fear-avoidance beliefs raises further questions, since most of the research is conducted with chronic low back pain patients. Are fear-avoidance beliefs developed in a chronicity process and thus a result of the pain process, in line with theories of learning? Are fearavoidance beliefs presented already before injury, as a tendency to react in an avoiding way generally?
+
+The body of knowledge has to date some limitations concerning the level of fear-avoidance beliefs in the acute phase of pain. Fritz et al. (2001) showed that fear-avoidance beliefs about work were present in acute low back pain patients. Furthermore, the beliefs functioned as a predictor of 4-week disability. In a prospective study, fear-avoidance beliefs had a relationship with the inception of back pain 1 year later (Linton et al., 2000).
+
+In order to search for some of the answers, further studies are needed, among others, to investigate if these beliefs occur in the normal population. There are numerous pain experiences from different locations of the body that individuals can relate to and also different modes of pain. In a cross-sectional design, we wanted to focus on pain experiences from the spinal area, i.e. back, neck and shoulders, since these locations are very common sites for pain. We wanted to utilise the possibility to grade different levels of non-chronic pain that might be a factor that influenced the reporting of fear-avoidance beliefs. Individuals without pain from the back, neck and shoulders would also constitute one category. Another aspect of fear-avoidance beliefs concerns the impact on pain experience and activities of daily living (ADL) and the role of fear-avoidance beliefs as a risk factor. Since catastrophizing forms a part of the fear of movement/ (re) injury model, the role of catastrophizing was also a matter of interest.
+
+The objective of this study was two-fold, firstly to examine the occurrence of fear-avoidance beliefs and catastrophizing in groups with different degrees of non-chronic spinal pain in a general population, and secondly to assess if fear-avoidance beliefs and catastrophizing are related to current ratings of pain and ADL.
+
+# 2. Methods
+
+#### 2.1. Design
+
+This is a cross-sectional study from the population based middle-Sweden Back Pain project (Linton et al., 1998), at the Department of Occupational and Environmental Medicine at the O¨ rebro University Hospital. A screening postal questionnaire was distributed to a random sample of 3000 35–45 year olds from the census (Sema Group Infodata, Stockholm, Sweden), who were residents in three different communities in central Sweden representing rural and city environments. Based on self-reports from this pool of 3000, individuals were selected and an additional questionnaire was subsequently distributed.
+
+# 2.2. Selection
+
+The response rate from the random sample of 3000 individuals was 2329 (78%). Sixty-five individuals were excluded because either of early retirement or misreporting about age or gender, leaving 2264. Since the matter of interest was non-chronic pain, another 793 individuals were excluded due to the over all exclusion criterion which was sick leave .30 days. Leaving 1471, subjects were selected into one of three categories of pain intensity, labelled no pain, mild pain and moderate pain. Individuals who had indicated that they had not experienced pain from the low back, neck or shoulders during the past 12 months were labelled no pain. Individuals who reported that they had experienced some pain (#4) from the low back, neck or shoulders on a numeric rating scale (NRS) for pain intensity (0–10), and had been sick-listed ,15 days, formed the mild pain category. Individuals that reported pain (NRS \$5) and that they had ,31 days off work, constituted moderate pain. An additional questionnaire was distributed to the 1471 individuals and the response rate was 949 or 65%. Due to missing data on one of the instruments for prediction, the modified form of the fear-avoidance beliefs questionnaire (mFABQ, see below), 32 individuals were excluded, leaving 917 to constitute the study group.
+
+# 2.3. Subjects
+
+The no pain category finally consisted of 431 individuals; the mild pain 222 individuals and the moderate pain 264 individuals. Mean age in each of the groups was 40 years and the distribution between men and women was quite similar at about 50% women in each of the groups. The age stratum 35–45 years old was chosen due to the fact that there seems to be a peak in back pain incidence around 40 years of age (Biering-So¨rensen, 1984).
+
+#### 2.4. Assessment instruments
+
+The additional questionnaire was distributed after the selection procedure and it contained instruments to measure fear-avoidance beliefs, catastrophizing and ADL. Fearavoidance beliefs were measured by a modified form of FABQ (Waddell et al., 1993), which is a 16-item, self-report scale that focus specifically on patient's beliefs about how physical activity and work affects their pain. Four items were selected from the physical activity factor to form the modified version (mFABQ). The statements were modified in order to also be answered by the group of individuals that did not have pain. The items were: 1. pain is caused by physical activity; 2. physical activity makes one's pain worse; 3. physical activity might be harmful; and 4. one should not do physical activities which (might) make one's pain worse. Consistent with the FABQ, the items are answered on a verbal (Likert-type) scale on a 0–6 basis (score sum 0–24), from strongly disagree to strongly agree, high scores indicate stronger beliefs. In a pilot testing with 36 acute back pain sufferers, the four-question mFABQ was found to be highly correlative with the five-question physical activity scale of the FABQ (r ¼ 0:97).
+
+The pain and catastrophizing scale (PCS) (Sullivan et al., 1995) was included in order to detect exaggerated and negative interpretations of pain. The PCS is a self-report scale that consists of 13 items. The respondents were asked to reflect on past painful experiences and the respondent is to indicate to which degree he/she experienced e.g. helplessness or rumination, when feeling pain. This is made on a 0–4 basis (score sum 0–52) from not at all to all the time, high score sum indicating stronger catastrophizing.
+
+Five questions dealt with ADL (Linton, 1990). Respondents rated how well they could participate in these activities on a 0–10 scale, and 'cannot do it because of pain' to 'can do it without a pain problem', were written at the endpoints. A total score (0–50) is obtained by summing the scores, high scores indicate higher levels of activity. Since the questions assume that the participants have back pain, the individuals with no pain could not complete these questions. The Research Ethics Committee, O¨ rebro University Hospital, approved the study.
+
+#### 2.5. Statistical analyses
+
+To describe the occurrence of fear-avoidance beliefs and catastrophizing, score sums were calculated for the mFABQ (fear-avoidance beliefs) and the PCS (catastrophizing) and presented for each of the three categories: no pain, mild pain and moderate pain. Due to the skewed distribution, the median was used as a measure of central tendency and quartiles as a measure of dispersion. Box and Whiskerplots graphically display the distribution. Differences between categories were tested with the Kruskal–Wallis non-parametric analysis of variance.
+
+To introduce a multivariate perspective, we performed logistic regression analysis where fear-avoidance beliefs and catastrophizing were used simultaneously as predictor variables for pain and ADL. In these analyses we also tested for statistical interaction between mFABQ and PCS, but since interaction was rejected at the 5% significance level the model was reformulated as a purely additive model without interactions. Adjustments were also made for smoking and gender since they are known risk factors and possible confounders (Nachemson and Jonsson, 2000). Pain as an outcome variable, was dichotomised into no pain and pain, where the mild and moderate pain categories constituted 'pain'. The other outcome variable was ADL, where a median split was used.
+
+# 3. Results
+
+# 3.1. Fear-avoidance beliefs
+
+One of the objectives was to examine the occurrence of fear-avoidance beliefs in a general population. In order to perform this, a three-category selection based on pain reporting and sick leave was used. The illustration in Fig. 2 shows the relative frequency of 917 sum scores from the mFABQ, where higher sum scores mean more fear-avoidance beliefs. It demonstrates that fear-avoidance beliefs are present in this general population with non-chronic pain. The scores range through the whole scale in all the three categories and differences between categories seem to be quite small. The distribution is non-normal (Shapiro–Wilk W test for normality).
+
+Another image of fear-avoidance beliefs in the general population is illustrated in Fig. 3. Although the three categories showed distinguished characteristics in pain, the level of fear-avoidance beliefs i.e. the central tendency did not differ much between the groups and a 'dose–response' pattern was not seen. A comparison of the categories showed a quite small but statistically significant difference
+
+Fig. 2. Relative frequency and distribution of sum scores (0–24) for fear-avoidance beliefs measured by the four-question modified fear-avoidance beliefs questionnaire (mFABQ), divided by the three pain categories. Total n ¼ 917.
+
+(Kruskal–Wallis P , 0:05), however, probably caused by the large number of subjects.
+
+# 3.2. Catastrophizing
+
+Catastrophizing, as measured by the PCS, seems to have a tendency towards a more stepwise pattern of 'dose– response'. Fig. 4 indicates that higher level of pain has a relationship with more catastrophizing, with small differences that are statistically significant (Kruskal–Wallis
+
+Fig. 3. Box and Whisker-plot with median, range, first and third quartile for score sums of fear-avoidance beliefs measured by the four-question modified fear-avoidance beliefs questionnaire (mFABQ), each pain category illustrated. No pain md ¼ 9, mild pain md ¼ 8, moderate pain md ¼ 10. Total n ¼ 917.
+
+P , 0:01) probably, however, influenced by the large number of subjects.
+
+#### 3.3. Effects on pain
+
+We wanted to investigate the relationship between fearavoidance beliefs and pain. Table 1 summarises the fearavoidance beliefs used as a predictor variable for the risk of experiencing pain. Pain was dichotomised into pain/no pain. The results showed that the risk of experiencing pain was somewhat increased by fear-avoidance beliefs. The adjusted
+
+Fig. 4. Box and Whisker-plot with median, range, first and third quartile for score sums of catastrophizing measured by the PCS, each pain category illustrated. No pain md ¼ 9, mild pain md ¼ 10, moderate pain md ¼ 12. Total n ¼ 912. <sup>p</sup> ¼ extreme out-lier
+
+Table 1 Adjusted odds ratio (OR) for pain (n ¼ 886, missing cases n ¼ 26)<sup>a</sup>
+
+|       |          | n                        | Adjusted ORb | 95% CI    |
+|-------|----------|--------------------------|--------------|-----------|
+| mFABQ | Q1 0–5   | 225 (reference category) | 1.00         | –         |
+|       | Q2 6–8   | 188                      | 0.99         | 0.67–1.47 |
+|       | Q3 9–12  | 215                      | 0.95         | 0.65–1.39 |
+|       | Q4 13–24 | 258                      | 1.25         | 0.87–1.81 |
+| PCS   | 0–9      | 403 (reference category) | 1.00         | –         |
+|       | 10–52    | 483                      | 1.75         | 1.33–2.30 |
+
+<sup>a</sup> The fear-avoidance beliefs questionnaire (mFABQ) is divided by quartiles and the pain catastrophizing scale (PCS) is divided by the median.
+
+odds ratio (OR) for fear-avoidance beliefs' effect on pain was 1.25 for the fourth quartile, but the 95% confidence interval (CI) fell below unity (0.87–1.81). Catastrophizing as a risk factor showed a somewhat higher OR ¼ 1.75, with 95% CI above unity (1.33–2.30). Thus, the relationship between fear-avoidance beliefs and pain was slightly weaker than for catastrophizing and pain.
+
+### 3.4. Effects on ADL
+
+ADL was also used as an outcome variable for fearavoidance beliefs and catastrophizing and was divided by the median for the logistic regression analysis. Fear-avoidance beliefs as a risk factor for influencing ADL, i.e. for individuals to have a lower level of activity, were more than doubled, OR ¼ 2.5 for the highest quartile. Here, we found a stepwise dose–response pattern that was statistically significant for all levels. For catastrophizing as a risk factor for influencing the level of activity, the OR was 1.8 (see Table 2). The 95% CI's all fell above unity. In summary, the relation between fear-avoidance beliefs and ADL was more pronounced than the one for catastrophizing.
+
+# 4. Discussion
+
+The overall aim of this study was to examine the role that fear-avoidance beliefs and catastrophizing play in pain and disability with a sample from the general population. We found that in this population, fear-avoidance beliefs and catastrophizing were present in the early stages of the pain process and also that the findings are in line with the fear of movement/(re) injury model (Vlaeyen et al., 1995b) as well as previous studies with chronic pain patients (Vlaeyen and Linton, 2000). The results indicate that fear-avoidance beliefs and catastrophizing might be good screening variables and also important targets for early interventions.
+
+One of the aims was to examine the occurrence of fearavoidance beliefs and catastrophizing in this non-chronic population. Catastrophizing was present at quite low levels, but however, showed a 'dose–response' pattern, such that higher the level of catastrophizing, the more pain was reported. This is in line with the excessive focus on pain sensations and hypervigilance for threatening somatic information that is suggested to be a characteristic of catastrophizing (Crombez et al., 1998a, Sullivan et al., 1995). In terms of fear-avoidance beliefs, they were present at a moderate level with a small tendency towards a difference between pain categories, i.e. no pain, mild pain and moderate pain. The level of beliefs may be due to the fact that the items of the mFABQ relate more to physical activity than to pain. We had expected that the different pain categories would relate to the reporting of fear-avoidance beliefs in a 'dose–response' pattern, but our results suggest that this relationship is not especially strong at this early stage.
+
+With regard to the second aim, which was to assess the relationship of fear-avoidance beliefs and catastrophizing to ratings of pain and ADL, we found that fear-avoidance and ADL were related. The results showed a stepwise 'dose– response' pattern, with confidence intervals above unity for all levels. The OR was 2.5 for the fourth quartile, i.e. the OR
+
+Table 2 Adjusted odds ratio (OR) for ADL (n ¼ 462, missing cases n ¼ 24)<sup>a</sup>
+
+|       |          | n                        | Adjusted ORb | 95% CI    |
+|-------|----------|--------------------------|--------------|-----------|
+| mFABQ | Q1 0–5   | 117 (reference category) | 1.00         | –         |
+|       | Q2 6–8   | 96                       | 1.82         | 1.03–3.22 |
+|       | Q3 9–12  | 106                      | 2.32         | 1.33–4.06 |
+|       | Q4 13–24 | 143                      | 2.47         | 1.46–4.19 |
+| PCS   | 0–9      | 177 (reference category) | 1.00         | –         |
+|       | 10–52    | 285                      | 1.80         | 1.20–2.68 |
+
+<sup>a</sup> The modified fear-avoidance beliefs questionnaire (mFABQ), is divided by quartiles and the pain catastrophizing scale (PCS), is divided by the median.
+
+<sup>b</sup> Adjusted for smoking and gender.
+
+<sup>b</sup> Adjusted for smoking and gender.
+
+of having a decreased ADL was more than doubled for the highest fear-avoidance beliefs. This is in agreement with the results from a study with chronic pain patients (Waddell et al., 1993), with the strongest relationship between disability in ADL and fear-avoidance beliefs about work and activities. One clinical problem of back pain sufferers, among others, is the decrease in mobility and activity, both physically and socially. In a study where patients were classified into either confronters or avoiders, the authors suggested a close link between fear cognitions related to pain/(re) injury and avoidance and physical deconditioning (Crombez et al., 1998b). As for fear-avoidance in relation to pain, the adjusted OR was 1.25 for the fourth quartile, but this result was not statistically significant. These results indicate a stronger relationship between fear-avoidance beliefs and level of activity than fear-avoidance beliefs and pain.
+
+Catastrophizing was related to ADL with an OR of 1.8 and the OR for catastrophizing in relation to pain was about the same at 1.75. A possible confounder of effects could be the interrelationship between fear-avoidance beliefs and catastrophizing, which was however, statistically controlled as both variables and their interaction were tested and then the interaction was rejected. In summary, we found clear relationships between pain intensity and catastrophizing as well as between ADL and fear-avoidance beliefs.
+
+It is necessary to consider limitations in this study and two issues on the matter of methodology are important to raise. This study employs a cross-sectional design and therefore causal inferences of the results cannot be made. Secondly, both the dependent and the independent variables are based on self-reports. This is a subjective measure, however, our aim was to assess the relationship of fearavoidance beliefs and catastrophizing based on the subject's current ratings of pain and ADL. In the literature, the influence of fear-avoidance beliefs and catastrophizing to date has been more focused on chronic pain than towards the non-chronic perspective. Since the subjects were selected from a population of 35–45 years old and not among patients, which we consider to be a strength of this study, the findings extend to a non-patient group. Another question of selection concerns the selection of pain groups according to the pain intensity criterion as well as sick leave, which means that the mild pain and the moderate pain categories might not demonstrate pain intensity only.
+
+In the introduction, the question was raised for what role fear-avoidance plays in learning and experience and to what extent it is based on expectations. Are there certain individuals who tend to always react on painful stimuli with fearavoidance beliefs? Our results are in line with the fear of movement/(re) injury model (Vlaeyen et al., 1995b) that was referred to in the introduction; however, the objective of our study was not to test the model. The fear of movement/(re) injury model suggests links between pain experience, catastrophizing, fear-avoidance beliefs and disability. Our study showed two relationships between the variables, firstly the association between fear-avoidance beliefs and ADL, i.e. a connection between avoidance behaviour and a lower activity level or disability. Decreased activity may lead to physical deconditioning, to the detriment of working capacity and health (Nachemson and Jonsson, 2000). Secondly, an association between a higher rating of pain and catastrophizing was found, the latter being hypothesised to be a mediator of pain (e.g. Crombez et al., 1998a). This relationship might be the pathway into the vicious circle of the model mentioned above.
+
+Fear-avoidance beliefs about work, in particular, have shown to be predictive with regard to disability due to low back pain in a chronic pain sample (Waddell et al., 1993) as well as in acute low back pain (Fritz et al., 2001, Klenerman et al., 1995). This study has explored the early stages of a possible chronic pain process in a non-chronic population, and we suggest that fear-avoidance beliefs and catastrophizing are important in the transition from acute to chronic pain. We conclude that fear-avoidance beliefs and catastrophizing seem to be an active part of the development of chronic pain and clinical implications of this knowledge include screening procedures and identification of risk patients as well as early intervention and treatment. A door also opens to further research concerning beliefs and cognitions in early stages of pain, from the spinal area as well as from other sites for musculoskeletal pain or even of other aetiologies, e.g. pain from fractures.

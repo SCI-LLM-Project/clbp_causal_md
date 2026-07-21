@@ -1,0 +1,1267 @@
+[
+ {
+  "file": "almeida\\almeida.md",
+  "orig_bytes": 116478,
+  "clean_bytes": 23122,
+  "pct_kept": 19.9,
+  "dropped_sections": [
+   "review",
+   "article history: received 3 march 2014 received in revised form 11 march 2014 accepted 13 march 2014",
+   "contents",
+   "contributors",
+   "competing interest",
+   "funding",
+   "role of the sponsors",
+   "provenance and peer review",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "a r t i c l e i n f o"
+  ]
+ },
+ {
+  "file": "amiri\\amiri.md",
+  "orig_bytes": 41174,
+  "clean_bytes": 26901,
+  "pct_kept": 65.3,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "assari\\assari.md",
+  "orig_bytes": 57232,
+  "clean_bytes": 32845,
+  "pct_kept": 57.4,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "bank\\bank.md",
+  "orig_bytes": 77228,
+  "clean_bytes": 71589,
+  "pct_kept": 92.7,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "barberia-latasa\\barberia-latasa.md",
+  "orig_bytes": 93932,
+  "clean_bytes": 41590,
+  "pct_kept": 44.3,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "bergstedt\\bergstedt.md",
+  "orig_bytes": 119876,
+  "clean_bytes": 85399,
+  "pct_kept": 71.2,
+  "dropped_sections": [
+   "reporting summary",
+   "data availability",
+   "references",
+   "acknowledgements",
+   "author contributions",
+   "funding",
+   "competing interests",
+   "additional information",
+   "reporting summary"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "berk\\berk.md",
+  "orig_bytes": 144391,
+  "clean_bytes": 73493,
+  "pct_kept": 50.9,
+  "dropped_sections": [
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "berkovic_preprint\\berkovic_preprint.md",
+  "orig_bytes": 60000,
+  "clean_bytes": 30562,
+  "pct_kept": 50.9,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "bhattacharya\\bhattacharya.md",
+  "orig_bytes": 60919,
+  "clean_bytes": 43688,
+  "pct_kept": 71.7,
+  "dropped_sections": [
+   "research article",
+   "competing interests",
+   "authors' contributions",
+   "acknowledgments",
+   "author details",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "bowen\\bowen.md",
+  "orig_bytes": 244048,
+  "clean_bytes": 145757,
+  "pct_kept": 59.7,
+  "dropped_sections": [
+   "acknowledgements",
+   "funding",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "bo\u0308ckerman\\bo\u0308ckerman.md",
+  "orig_bytes": 35419,
+  "clean_bytes": 23458,
+  "pct_kept": 66.2,
+  "dropped_sections": [
+   "article history received 16 march 2017 received in revised form 14 june 2017 accepted 17 june 2017 available online 21 june 2017",
+   "conflict of interest",
+   "acknowledgements",
+   "appendix a. supplementary data",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "buer2002\\buer2002.md",
+  "orig_bytes": 30454,
+  "clean_bytes": 25992,
+  "pct_kept": 85.3,
+  "dropped_sections": [
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "byrne2010\\byrne2010.md",
+  "orig_bytes": 32893,
+  "clean_bytes": 21061,
+  "pct_kept": 64.0,
+  "dropped_sections": [
+   "acknowledgements",
+   "references and recommended reading"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "cai2021\\cai2021.md",
+  "orig_bytes": 44402,
+  "clean_bytes": 20272,
+  "pct_kept": 45.7,
+  "dropped_sections": [
+   "contents lists available at sciencedirect",
+   "research paper",
+   "credit authorship contribution statement",
+   "declaration of competing interest",
+   "acknowledgements",
+   "author contributions",
+   "funding/support",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "casonova2021\\casonova2021.md",
+  "orig_bytes": 80276,
+  "clean_bytes": 68753,
+  "pct_kept": 85.6,
+  "dropped_sections": [
+   "supplementary material",
+   "acknowledgement",
+   "funding",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "demange_preprint\\demange_preprint.md",
+  "orig_bytes": 75945,
+  "clean_bytes": 58372,
+  "pct_kept": 76.9,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "diegelmann2016\\diegelmann2016.md",
+  "orig_bytes": 110953,
+  "clean_bytes": 88221,
+  "pct_kept": 79.5,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "edwards2004\\edwards2004.md",
+  "orig_bytes": 43191,
+  "clean_bytes": 34386,
+  "pct_kept": 79.6,
+  "dropped_sections": [
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "elgaeva2020\\elgaeva2020.md",
+  "orig_bytes": 28668,
+  "clean_bytes": 20623,
+  "pct_kept": 71.9,
+  "dropped_sections": [
+   "supplementary material",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "endomba2023\\endomba2023.md",
+  "orig_bytes": 72184,
+  "clean_bytes": 48571,
+  "pct_kept": 67.3,
+  "dropped_sections": [
+   "review",
+   "declarations",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "faravelli2013\\faravelli2013.md",
+  "orig_bytes": 15612,
+  "clean_bytes": 9355,
+  "pct_kept": 59.9,
+  "dropped_sections": [
+   "contents lists available at sciencedirect",
+   "brief report",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "farmer2019\\farmer2019.md",
+  "orig_bytes": 151880,
+  "clean_bytes": 134156,
+  "pct_kept": 88.3,
+  "dropped_sections": [
+   "acknowledgments",
+   "sources of funding",
+   "disclosures",
+   "references",
+   "supplemental material"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "flint1994\\flint1994.md",
+  "orig_bytes": 61933,
+  "clean_bytes": 52891,
+  "pct_kept": 85.4,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "flint2005\\flint2005.md",
+  "orig_bytes": 64248,
+  "clean_bytes": 43836,
+  "pct_kept": 68.2,
+  "dropped_sections": [
+   "contents",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "fluharty2017\\fluharty2017.md",
+  "orig_bytes": 79354,
+  "clean_bytes": 36144,
+  "pct_kept": 45.5,
+  "dropped_sections": [
+   "review",
+   "supplementary material",
+   "funding",
+   "declaration of interests",
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "frb\\frb.md",
+  "orig_bytes": 216159,
+  "clean_bytes": 197386,
+  "pct_kept": 91.3,
+  "dropped_sections": [
+   "contents",
+   "list of references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "gao2020\\gao2020.md",
+  "orig_bytes": 46090,
+  "clean_bytes": 36898,
+  "pct_kept": 80.1,
+  "dropped_sections": [
+   "author contributions",
+   "conflicts of interest",
+   "funding",
+   "references",
+   "supplementary materials",
+   "supplementary table"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "gaston2023\\gaston2023.md",
+  "orig_bytes": 79887,
+  "clean_bytes": 65105,
+  "pct_kept": 81.5,
+  "dropped_sections": [
+   "article history: received 6 december 2022 received in revised form 18 april 2023 accepted 26 april 2023",
+   "financial disclosure",
+   "credit authorship contribution statement",
+   "declaration of conflict of interest",
+   "acknowledgments",
+   "funding support",
+   "appendix a. supporting information",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "gibson2023\\gibson2023.md",
+  "orig_bytes": 74730,
+  "clean_bytes": 38170,
+  "pct_kept": 51.1,
+  "dropped_sections": [
+   "abbreviations",
+   "supplementary information",
+   "acknowledgements",
+   "authors' contributions",
+   "funding",
+   "availability of data and materials",
+   "declarations",
+   "ethics approval and consent to participate",
+   "consent for publication",
+   "competing interests",
+   "references",
+   "publisher's note"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "guan2022\\guan2022.md",
+  "orig_bytes": 89919,
+  "clean_bytes": 64263,
+  "pct_kept": 71.5,
+  "dropped_sections": [
+   "supporting information",
+   "acknowledgments",
+   "author contributions",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "hadjar2014\\hadjar2014.md",
+  "orig_bytes": 37706,
+  "clean_bytes": 27793,
+  "pct_kept": 73.7,
+  "dropped_sections": [
+   "editorial",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "hall2016\\hall2016.md",
+  "orig_bytes": 70064,
+  "clean_bytes": 27287,
+  "pct_kept": 38.9,
+  "dropped_sections": [
+   "article history: received 13 july 2015 received in revised form 30 november 2015 accepted 26 december 2015 available online 2 january 2016",
+   "conflict of interest",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "a r t i c l e i n f o"
+  ]
+ },
+ {
+  "file": "harrison2020\\harrison2020.md",
+  "orig_bytes": 93910,
+  "clean_bytes": 80874,
+  "pct_kept": 86.1,
+  "dropped_sections": [
+   "supplementary data",
+   "funding",
+   "acknowledgements",
+   "author contributions",
+   "conflict of interest",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "hu2022\\hu2022.md",
+  "orig_bytes": 53473,
+  "clean_bytes": 26706,
+  "pct_kept": 49.9,
+  "dropped_sections": [
+   "availability of data and material",
+   "author contributions",
+   "sources of funding",
+   "ethical approval",
+   "consent to participate",
+   "declaration of competing interest",
+   "acknowledgments",
+   "appendix a. supplementary data",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "jarvik2012\\jarvik2012.md",
+  "orig_bytes": 73607,
+  "clean_bytes": 61162,
+  "pct_kept": 83.1,
+  "dropped_sections": [
+   "competing interests",
+   "acknowledgements",
+   "author details",
+   "authors' contributions",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "jarvik2014\\jarvik2014.md",
+  "orig_bytes": 58205,
+  "clean_bytes": 46376,
+  "pct_kept": 79.7,
+  "dropped_sections": [
+   "research article",
+   "abbreviations",
+   "competing interests",
+   "authors' contributions",
+   "acknowledgements",
+   "author details",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "jones2021\\jones2021.md",
+  "orig_bytes": 86299,
+  "clean_bytes": 61481,
+  "pct_kept": 71.2,
+  "dropped_sections": [
+   "original research",
+   "nonstandard abbreviations and acronyms",
+   "data availability",
+   "article information",
+   "acknowledgments",
+   "sources of funding",
+   "disclosures",
+   "supplementary material",
+   "references",
+   "supplemental material"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "joyce2022\\joyce2022.md",
+  "orig_bytes": 133792,
+  "clean_bytes": 124113,
+  "pct_kept": 92.8,
+  "dropped_sections": [
+   "hhs public access",
+   "acknowledgments",
+   "data sharing",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "jura2016\\jura2016.md",
+  "orig_bytes": 92168,
+  "clean_bytes": 59813,
+  "pct_kept": 64.9,
+  "dropped_sections": [
+   "ageing and metabolic contributors to ageing",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "kanel2022\\kanel2022.md",
+  "orig_bytes": 52340,
+  "clean_bytes": 39283,
+  "pct_kept": 75.1,
+  "dropped_sections": [
+   "supporting information",
+   "author contributions",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "kohler2018\\kohler2018.md",
+  "orig_bytes": 467815,
+  "clean_bytes": 392139,
+  "pct_kept": 83.8,
+  "dropped_sections": [
+   "funding source",
+   "conflicts of interest",
+   "acknowledgments",
+   "appendix a. supplementary data",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "lancet2020\\lancet2020.md",
+  "orig_bytes": 567665,
+  "clean_bytes": 538052,
+  "pct_kept": 94.8,
+  "dropped_sections": [
+   "role of the funding source",
+   "contributors",
+   "declaration of interests",
+   "data sharing",
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "larrson2022\\larrson2022.md",
+  "orig_bytes": 149000,
+  "clean_bytes": 56096,
+  "pct_kept": 37.6,
+  "dropped_sections": [
+   "contents lists available at sciencedirect",
+   "credit authorship contribution statement",
+   "declaration of competing interest",
+   "acknowledgement",
+   "funding",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "latze2004\\latze2004.md",
+  "orig_bytes": 38399,
+  "clean_bytes": 34276,
+  "pct_kept": 89.3,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "lee2015\\lee2015.md",
+  "orig_bytes": 74650,
+  "clean_bytes": 53933,
+  "pct_kept": 72.2,
+  "dropped_sections": [
+   "conflict of interest statement",
+   "article history",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "lee2016\\lee2016.md",
+  "orig_bytes": 80292,
+  "clean_bytes": 59506,
+  "pct_kept": 74.1,
+  "dropped_sections": [
+   "original research",
+   "ethical approval",
+   "funding",
+   "competing interests",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "lenze2000\\lenze2000.md",
+  "orig_bytes": 51406,
+  "clean_bytes": 43715,
+  "pct_kept": 85.0,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "li2022\\li2022.md",
+  "orig_bytes": 62368,
+  "clean_bytes": 46514,
+  "pct_kept": 74.6,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "liao2020\\liao2020.md",
+  "orig_bytes": 42825,
+  "clean_bytes": 32694,
+  "pct_kept": 76.3,
+  "dropped_sections": [
+   "contents lists available at sciencedirect",
+   "original article",
+   "author contributions",
+   "acknowledgements",
+   "conflict of interest",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "lu2023\\lu2023.md",
+  "orig_bytes": 57899,
+  "clean_bytes": 45919,
+  "pct_kept": 79.3,
+  "dropped_sections": [
+   "funding",
+   "author contributions",
+   "disclosures",
+   "data availability",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "lv2022\\lv2022.md",
+  "orig_bytes": 40293,
+  "clean_bytes": 22404,
+  "pct_kept": 55.6,
+  "dropped_sections": [
+   "original article",
+   "declarations",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "lyons2005\\lyons2005.md",
+  "orig_bytes": 85301,
+  "clean_bytes": 76960,
+  "pct_kept": 90.2,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "markfelder2020\\markfelder2020.md",
+  "orig_bytes": 375959,
+  "clean_bytes": 215867,
+  "pct_kept": 57.4,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "marshall2018\\marshall2018.md",
+  "orig_bytes": 66433,
+  "clean_bytes": 60132,
+  "pct_kept": 90.5,
+  "dropped_sections": [
+   "declaration of conflicting interests",
+   "funding",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "maxwell1993\\maxwell1993.md",
+  "orig_bytes": 135852,
+  "clean_bytes": 128403,
+  "pct_kept": 94.5,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "miech2001\\miech2001.md",
+  "orig_bytes": 83611,
+  "clean_bytes": 74501,
+  "pct_kept": 89.1,
+  "dropped_sections": [
+   "selected abbreviations and acronyms",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "miloyan2019\\miloyan2019.md",
+  "orig_bytes": 39220,
+  "clean_bytes": 28927,
+  "pct_kept": 73.8,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "morin2020\\morin2020.md",
+  "orig_bytes": 35002,
+  "clean_bytes": 30245,
+  "pct_kept": 86.4,
+  "dropped_sections": [
+   "original article",
+   "funding",
+   "disclosure statement",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "morton2019\\morton2019.md",
+  "orig_bytes": 82643,
+  "clean_bytes": 68658,
+  "pct_kept": 83.1,
+  "dropped_sections": [
+   "correspondence",
+   "funding sources",
+   "conflicts of interest",
+   "author contributions",
+   "references",
+   "supporting information"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "mulia2022\\mulia2022.md",
+  "orig_bytes": 53786,
+  "clean_bytes": 30246,
+  "pct_kept": 56.2,
+  "dropped_sections": [
+   "supplementary material",
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "murphy2016\\murphy2016.md",
+  "orig_bytes": 57126,
+  "clean_bytes": 45344,
+  "pct_kept": 79.4,
+  "dropped_sections": [
+   "research article",
+   "supplementary material",
+   "funding",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "nida\\nida.md",
+  "orig_bytes": 3588,
+  "clean_bytes": 3362,
+  "pct_kept": 93.7,
+  "dropped_sections": [],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "nsduh2021\\nsduh2021.md",
+  "orig_bytes": 720154,
+  "clean_bytes": 676852,
+  "pct_kept": 94.0,
+  "dropped_sections": [
+   "acknowledgments",
+   "public domain notice",
+   "electronic access and printed copies",
+   "recommended citation",
+   "originating office",
+   "nondiscrimination notice/aviso de no discriminaci\u00f3n",
+   "table of contents"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "ohagan2023\\ohagan2023.md",
+  "orig_bytes": 43686,
+  "clean_bytes": 32557,
+  "pct_kept": 74.5,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "pearson-stuttart2023\\pearson-stuttart2023.md",
+  "orig_bytes": 41475,
+  "clean_bytes": 32452,
+  "pct_kept": 78.2,
+  "dropped_sections": [
+   "article open",
+   "data availability",
+   "references",
+   "acknowledgements",
+   "author contributions",
+   "competing interests",
+   "additional information"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "pollimanti2019\\pollimanti2019.md",
+  "orig_bytes": 62387,
+  "clean_bytes": 28942,
+  "pct_kept": 46.4,
+  "dropped_sections": [
+   "hhs public access",
+   "data availability",
+   "supplementary material",
+   "acknowledgements.",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "pott2021\\pott2021.md",
+  "orig_bytes": 83888,
+  "clean_bytes": 58548,
+  "pct_kept": 69.8,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "read2017\\read2017.md",
+  "orig_bytes": 104062,
+  "clean_bytes": 65683,
+  "pct_kept": 63.1,
+  "dropped_sections": [
+   "research paper",
+   "funding/support",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "reeves2023\\reeves2023.md",
+  "orig_bytes": 11034,
+  "clean_bytes": 10349,
+  "pct_kept": 93.8,
+  "dropped_sections": [
+   "commentary",
+   "footnotes"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "rogers2022\\rogers2022.md",
+  "orig_bytes": 129630,
+  "clean_bytes": 111405,
+  "pct_kept": 85.9,
+  "dropped_sections": [
+   "correspondence",
+   "conflict of interest",
+   "orcid",
+   "references",
+   "supporting information"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "ryum2023\\ryum2023.md",
+  "orig_bytes": 48551,
+  "clean_bytes": 36212,
+  "pct_kept": 74.6,
+  "dropped_sections": [
+   "disclosures",
+   "acknowledgements",
+   "article history",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "sahle2019\\sahle2019.md",
+  "orig_bytes": 113298,
+  "clean_bytes": 96687,
+  "pct_kept": 85.3,
+  "dropped_sections": [
+   "research article",
+   "acknowledgments",
+   "supplemental material",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "salive2013\\salive2013.md",
+  "orig_bytes": 63783,
+  "clean_bytes": 54486,
+  "pct_kept": 85.4,
+  "dropped_sections": [
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "shu2022\\shu2022.md",
+  "orig_bytes": 48753,
+  "clean_bytes": 28055,
+  "pct_kept": 57.5,
+  "dropped_sections": [
+   "citation",
+   "copyright",
+   "data availability statement",
+   "ethics statement",
+   "author contributions",
+   "acknowledgments",
+   "conflict of interest",
+   "publisher's note",
+   "supplementary material",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "siahpush2010\\siahpush2010.md",
+  "orig_bytes": 51947,
+  "clean_bytes": 41513,
+  "pct_kept": 79.9,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "smeets2006\\smeets2006.md",
+  "orig_bytes": 61413,
+  "clean_bytes": 49206,
+  "pct_kept": 80.1,
+  "dropped_sections": [
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "stewart2022\\stewart2022.md",
+  "orig_bytes": 85558,
+  "clean_bytes": 42021,
+  "pct_kept": 49.1,
+  "dropped_sections": [
+   "article history",
+   "disclosure statement",
+   "funding",
+   "notes on contributors",
+   "orcid",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "suh2018\\suh2018.md",
+  "orig_bytes": 79269,
+  "clean_bytes": 46500,
+  "pct_kept": 58.7,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "tang2020\\tang2018.md",
+  "orig_bytes": 31882,
+  "clean_bytes": 23443,
+  "pct_kept": 73.5,
+  "dropped_sections": [
+   "article",
+   "abbreviations",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "tarabeih2022\\tarabeih2022.md",
+  "orig_bytes": 72696,
+  "clean_bytes": 45405,
+  "pct_kept": 62.5,
+  "dropped_sections": [
+   "ethical approval",
+   "acknowledgments",
+   "author contributions",
+   "funding",
+   "disclosure",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "tillman2017\\tillman2017.md",
+  "orig_bytes": 68029,
+  "clean_bytes": 49717,
+  "pct_kept": 73.1,
+  "dropped_sections": [
+   "author affiliations",
+   "supplementary materials: analytical dataset"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "torvik2019\\torvik2019.md",
+  "orig_bytes": 51607,
+  "clean_bytes": 29893,
+  "pct_kept": 57.9,
+  "dropped_sections": [
+   "hhs public access",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "treur2021\\treur2021.md",
+  "orig_bytes": 379582,
+  "clean_bytes": 321276,
+  "pct_kept": 84.6,
+  "dropped_sections": [
+   "author for correspondence",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "viinikainen2018\\viinikainen2018.md",
+  "orig_bytes": 12803,
+  "clean_bytes": 12002,
+  "pct_kept": 93.7,
+  "dropped_sections": [],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "waardenbug2022\\waardenbug2022.md",
+  "orig_bytes": 45941,
+  "clean_bytes": 34511,
+  "pct_kept": 75.1,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "wettstein2019\\wettstein2019.md",
+  "orig_bytes": 54371,
+  "clean_bytes": 41693,
+  "pct_kept": 76.7,
+  "dropped_sections": [
+   "acknowledgments",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "wheeler2019\\wheeler2019.md",
+  "orig_bytes": 47371,
+  "clean_bytes": 41279,
+  "pct_kept": 87.1,
+  "dropped_sections": [
+   "conflict of interest statement",
+   "acknowledgements",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "williams2022\\williams2022.md",
+  "orig_bytes": 59570,
+  "clean_bytes": 41731,
+  "pct_kept": 70.1,
+  "dropped_sections": [
+   "original article",
+   "declarations",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "wood2023\\wood2023.md",
+  "orig_bytes": 65350,
+  "clean_bytes": 36820,
+  "pct_kept": 56.3,
+  "dropped_sections": [
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "yao2023\\yao2023.md",
+  "orig_bytes": 53149,
+  "clean_bytes": 35426,
+  "pct_kept": 66.7,
+  "dropped_sections": [
+   "abbreviations",
+   "supplementary information",
+   "acknowledgements",
+   "authors' contributions",
+   "funding",
+   "availability of data and materials",
+   "declarations",
+   "competing interests",
+   "author details",
+   "references",
+   "publisher's note"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "zhao2022\\zhao2022.md",
+  "orig_bytes": 47594,
+  "clean_bytes": 36731,
+  "pct_kept": 77.2,
+  "dropped_sections": [
+   "original article",
+   "acknowledgements",
+   "data availability statement",
+   "supplementary data",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "zheng2024\\zheng2024.md",
+  "orig_bytes": 63751,
+  "clean_bytes": 46964,
+  "pct_kept": 73.7,
+  "dropped_sections": [
+   "article",
+   "references",
+   "acknowledgements",
+   "author contributions",
+   "competing interests",
+   "additional information"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "zhou2019\\zhou2019.md",
+  "orig_bytes": 39405,
+  "clean_bytes": 30941,
+  "pct_kept": 78.5,
+  "dropped_sections": [
+   "supplementary data",
+   "funding",
+   "acknowledgements",
+   "author contributions",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "zhou2022\\zhou2022.md",
+  "orig_bytes": 48416,
+  "clean_bytes": 27324,
+  "pct_kept": 56.4,
+  "dropped_sections": [
+   "declaration of competing interest",
+   "data availability statement",
+   "ethics approval",
+   "acknowledgments",
+   "appendix a. supplementary data",
+   "references"
+  ],
+  "articleinfo_sections": [
+   "article info"
+  ]
+ },
+ {
+  "file": "zhouj2021\\zhouj2021.md",
+  "orig_bytes": 43056,
+  "clean_bytes": 26492,
+  "pct_kept": 61.5,
+  "dropped_sections": [
+   "edited by",
+   "reviewed by",
+   "\\correspondence",
+   "specialty section",
+   "data availability statement",
+   "ethics statement",
+   "author contributions",
+   "funding",
+   "acknowledgments",
+   "supplementary material",
+   "references"
+  ],
+  "articleinfo_sections": []
+ },
+ {
+  "file": "zhu2020\\zhu2022.md",
+  "orig_bytes": 55823,
+  "clean_bytes": 44391,
+  "pct_kept": 79.5,
+  "dropped_sections": [
+   "edited by",
+   "reviewed by",
+   "\\correspondence",
+   "specialty section",
+   "citation",
+   "references",
+   "data availability statement",
+   "ethics statement",
+   "author contributions",
+   "funding"
+  ],
+  "articleinfo_sections": []
+ }
+]
